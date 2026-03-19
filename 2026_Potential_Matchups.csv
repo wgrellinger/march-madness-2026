@@ -1,0 +1,2279 @@
+HigherSeed,HigherSeedID,HigherSeedNum,LowerSeed,LowerSeedID,LowerSeedNum,Predictions
+Alabama,1104,4,Akron,1103,12,0.6089
+Arizona,1112,1,Akron,1103,12,0.8662
+Arkansas,1116,4,Akron,1103,12,0.7891
+BYU,1140,6,Akron,1103,12,0.7386
+Akron,1103,12,Cal Baptist,1465,13,0.6644
+Clemson,1155,8,Akron,1103,12,0.6997
+Connecticut,1163,2,Akron,1103,12,0.8211
+Duke,1181,1,Akron,1103,12,0.8704
+Florida,1196,1,Akron,1103,12,0.7913
+Akron,1103,12,Furman,1202,15,0.9486
+Georgia,1208,8,Akron,1103,12,0.6263
+Gonzaga,1211,3,Akron,1103,12,0.877
+Akron,1103,12,Hawaii,1218,13,0.8388
+Akron,1103,12,High Point,1219,12,0.7583
+Akron,1103,12,Hofstra,1220,13,0.681
+Houston,1222,2,Akron,1103,12,0.85
+Akron,1103,12,Howard,1224,16,0.8551
+Akron,1103,12,Idaho,1225,15,0.9242
+Illinois,1228,3,Akron,1103,12,0.7349
+Iowa,1234,9,Akron,1103,12,0.6917
+Iowa St,1235,2,Akron,1103,12,0.7998
+Kansas,1242,4,Akron,1103,12,0.7619
+Akron,1103,12,Kennesaw,1244,14,0.8368
+Kentucky,1246,7,Akron,1103,12,0.7799
+Akron,1103,12,Lehigh,1250,16,0.9503
+Akron,1103,12,LIU Brooklyn,1254,16,0.8439
+Louisville,1257,6,Akron,1103,12,0.8225
+McNeese St,1270,12,Akron,1103,12,0.5958
+Miami FL,1274,7,Akron,1103,12,0.802
+Miami OH,1275,11,Akron,1103,12,0.6011
+Michigan,1276,1,Akron,1103,12,0.8474
+Michigan St,1277,3,Akron,1103,12,0.6648
+Missouri,1281,10,Akron,1103,12,0.5087
+Akron,1103,12,N Dakota St,1295,14,0.8106
+NC State,1301,11,Akron,1103,12,0.5461
+Nebraska,1304,4,Akron,1103,12,0.6255
+North Carolina,1314,6,Akron,1103,12,0.6266
+Akron,1103,12,Northern Iowa,1320,12,0.7756
+Ohio St,1326,8,Akron,1103,12,0.6531
+Akron,1103,12,Penn,1335,14,0.8922
+Akron,1103,12,Prairie View,1341,16,0.872
+Purdue,1345,2,Akron,1103,12,0.755
+Akron,1103,12,Queens NC,1474,15,0.9388
+Santa Clara,1365,10,Akron,1103,12,0.721
+Akron,1103,12,Siena,1373,16,0.9363
+SMU,1374,11,Akron,1103,12,0.5661
+South Florida,1378,11,Akron,1103,12,0.436
+St John's,1385,5,Akron,1103,12,0.7786
+St Louis,1387,9,Akron,1103,12,0.6175
+St Mary's CA,1388,7,Akron,1103,12,0.7463
+TCU,1395,9,Akron,1103,12,0.6942
+Tennessee,1397,6,Akron,1103,12,0.7932
+Akron,1103,12,Tennessee St,1398,15,0.8536
+Texas,1400,11,Akron,1103,12,0.5871
+Texas A&M,1401,10,Akron,1103,12,0.5257
+Texas Tech,1403,5,Akron,1103,12,0.8205
+Akron,1103,12,Troy,1407,13,0.9049
+UCF,1416,10,Akron,1103,12,0.5913
+UCLA,1417,7,Akron,1103,12,0.6955
+Akron,1103,12,UMBC,1420,16,0.895
+Utah St,1429,9,Akron,1103,12,0.6746
+Vanderbilt,1435,5,Akron,1103,12,0.8137
+VCU,1433,11,Akron,1103,12,0.6702
+Villanova,1437,8,Akron,1103,12,0.6877
+Virginia,1438,3,Akron,1103,12,0.7973
+Wisconsin,1458,5,Akron,1103,12,0.6186
+Akron,1103,12,Wright St,1460,14,0.8137
+Arizona,1112,1,Alabama,1104,4,0.8318
+Alabama,1104,4,Arkansas,1116,4,0.5066
+Alabama,1104,4,BYU,1140,6,0.3392
+Alabama,1104,4,Cal Baptist,1465,13,0.8632
+Alabama,1104,4,Clemson,1155,8,0.4919
+Connecticut,1163,2,Alabama,1104,4,0.7098
+Duke,1181,1,Alabama,1104,4,0.8226
+Florida,1196,1,Alabama,1104,4,0.7251
+Alabama,1104,4,Furman,1202,15,0.909
+Alabama,1104,4,Georgia,1208,8,0.5023
+Gonzaga,1211,3,Alabama,1104,4,0.763
+Alabama,1104,4,Hawaii,1218,13,0.9089
+Alabama,1104,4,High Point,1219,12,0.6748
+Alabama,1104,4,Hofstra,1220,13,0.8299
+Houston,1222,2,Alabama,1104,4,0.7274
+Alabama,1104,4,Howard,1224,16,0.8608
+Alabama,1104,4,Idaho,1225,15,0.8885
+Illinois,1228,3,Alabama,1104,4,0.7756
+Alabama,1104,4,Iowa,1234,9,0.5025
+Iowa St,1235,2,Alabama,1104,4,0.7039
+Alabama,1104,4,Kansas,1242,4,0.538
+Alabama,1104,4,Kennesaw,1244,14,0.8848
+Alabama,1104,4,Kentucky,1246,7,0.4841
+Alabama,1104,4,Lehigh,1250,16,0.8983
+Alabama,1104,4,LIU Brooklyn,1254,16,0.8746
+Alabama,1104,4,Louisville,1257,6,0.284
+Alabama,1104,4,McNeese St,1270,12,0.7171
+Alabama,1104,4,Miami FL,1274,7,0.6233
+Alabama,1104,4,Miami OH,1275,11,0.6134
+Michigan,1276,1,Alabama,1104,4,0.8316
+Michigan St,1277,3,Alabama,1104,4,0.5507
+Alabama,1104,4,Missouri,1281,10,0.6892
+Alabama,1104,4,N Dakota St,1295,14,0.8024
+Alabama,1104,4,NC State,1301,11,0.5089
+Nebraska,1304,4,Alabama,1104,4,0.5013
+Alabama,1104,4,North Carolina,1314,6,0.6646
+Alabama,1104,4,Northern Iowa,1320,12,0.6668
+Alabama,1104,4,Ohio St,1326,8,0.6458
+Alabama,1104,4,Penn,1335,14,0.9059
+Alabama,1104,4,Prairie View,1341,16,0.912
+Purdue,1345,2,Alabama,1104,4,0.6863
+Alabama,1104,4,Queens NC,1474,15,0.9335
+Alabama,1104,4,Santa Clara,1365,10,0.4949
+Alabama,1104,4,Siena,1373,16,0.8879
+Alabama,1104,4,SMU,1374,11,0.486
+Alabama,1104,4,South Florida,1378,11,0.7806
+Alabama,1104,4,St John's,1385,5,0.5422
+Alabama,1104,4,St Louis,1387,9,0.6099
+Alabama,1104,4,St Mary's CA,1388,7,0.3779
+Alabama,1104,4,TCU,1395,9,0.702
+Alabama,1104,4,Tennessee,1397,6,0.48
+Alabama,1104,4,Tennessee St,1398,15,0.7861
+Alabama,1104,4,Texas,1400,11,0.7092
+Alabama,1104,4,Texas A&M,1401,10,0.7089
+Alabama,1104,4,Texas Tech,1403,5,0.5763
+Alabama,1104,4,Troy,1407,13,0.8655
+Alabama,1104,4,UCF,1416,10,0.3958
+Alabama,1104,4,UCLA,1417,7,0.3121
+Alabama,1104,4,UMBC,1420,16,0.9009
+Alabama,1104,4,Utah St,1429,9,0.6211
+Alabama,1104,4,Vanderbilt,1435,5,0.474
+Alabama,1104,4,VCU,1433,11,0.564
+Alabama,1104,4,Villanova,1437,8,0.4109
+Virginia,1438,3,Alabama,1104,4,0.7386
+Alabama,1104,4,Wisconsin,1458,5,0.4327
+Alabama,1104,4,Wright St,1460,14,0.887
+Arizona,1112,1,Arkansas,1116,4,0.774
+Arizona,1112,1,BYU,1140,6,0.8464
+Arizona,1112,1,Cal Baptist,1465,13,0.9555
+Arizona,1112,1,Clemson,1155,8,0.8701
+Arizona,1112,1,Connecticut,1163,2,0.742
+Duke,1181,1,Arizona,1112,1,0.5887
+Arizona,1112,1,Florida,1196,1,0.5535
+Arizona,1112,1,Furman,1202,15,0.9741
+Arizona,1112,1,Georgia,1208,8,0.6544
+Arizona,1112,1,Gonzaga,1211,3,0.5936
+Arizona,1112,1,Hawaii,1218,13,0.9716
+Arizona,1112,1,High Point,1219,12,0.825
+Arizona,1112,1,Hofstra,1220,13,0.9495
+Arizona,1112,1,Houston,1222,2,0.5631
+Arizona,1112,1,Howard,1224,16,0.9763
+Arizona,1112,1,Idaho,1225,15,0.9681
+Arizona,1112,1,Illinois,1228,3,0.719
+Arizona,1112,1,Iowa,1234,9,0.8332
+Arizona,1112,1,Iowa St,1235,2,0.6198
+Arizona,1112,1,Kansas,1242,4,0.8649
+Arizona,1112,1,Kennesaw,1244,14,0.9692
+Arizona,1112,1,Kentucky,1246,7,0.8619
+Arizona,1112,1,Lehigh,1250,16,0.9776
+Arizona,1112,1,LIU Brooklyn,1254,16,0.9567
+Arizona,1112,1,Louisville,1257,6,0.7986
+Arizona,1112,1,McNeese St,1270,12,0.8018
+Arizona,1112,1,Miami FL,1274,7,0.6921
+Arizona,1112,1,Miami OH,1275,11,0.8799
+Arizona,1112,1,Michigan,1276,1,0.3924
+Arizona,1112,1,Michigan St,1277,3,0.7794
+Arizona,1112,1,Missouri,1281,10,0.9338
+Arizona,1112,1,N Dakota St,1295,14,0.9428
+Arizona,1112,1,NC State,1301,11,0.8146
+Arizona,1112,1,Nebraska,1304,4,0.8458
+Arizona,1112,1,North Carolina,1314,6,0.8798
+Arizona,1112,1,Northern Iowa,1320,12,0.9457
+Arizona,1112,1,Ohio St,1326,8,0.8826
+Arizona,1112,1,Penn,1335,14,0.973
+Arizona,1112,1,Prairie View,1341,16,0.971
+Arizona,1112,1,Purdue,1345,2,0.6681
+Arizona,1112,1,Queens NC,1474,15,0.9535
+Arizona,1112,1,Santa Clara,1365,10,0.8363
+Arizona,1112,1,Siena,1373,16,0.9791
+Arizona,1112,1,SMU,1374,11,0.8807
+Arizona,1112,1,South Florida,1378,11,0.8816
+Arizona,1112,1,St John's,1385,5,0.8725
+Arizona,1112,1,St Louis,1387,9,0.8636
+Arizona,1112,1,St Mary's CA,1388,7,0.7069
+Arizona,1112,1,TCU,1395,9,0.9472
+Arizona,1112,1,Tennessee,1397,6,0.8104
+Arizona,1112,1,Tennessee St,1398,15,0.9491
+Arizona,1112,1,Texas,1400,11,0.8754
+Arizona,1112,1,Texas A&M,1401,10,0.8419
+Arizona,1112,1,Texas Tech,1403,5,0.8508
+Arizona,1112,1,Troy,1407,13,0.9693
+Arizona,1112,1,UCF,1416,10,0.9136
+Arizona,1112,1,UCLA,1417,7,0.8564
+Arizona,1112,1,UMBC,1420,16,0.9321
+Arizona,1112,1,Utah St,1429,9,0.7685
+Arizona,1112,1,Vanderbilt,1435,5,0.8213
+Arizona,1112,1,VCU,1433,11,0.9019
+Arizona,1112,1,Villanova,1437,8,0.9053
+Arizona,1112,1,Virginia,1438,3,0.6586
+Arizona,1112,1,Wisconsin,1458,5,0.8483
+Arizona,1112,1,Wright St,1460,14,0.9528
+Arkansas,1116,4,BYU,1140,6,0.5548
+Arkansas,1116,4,Cal Baptist,1465,13,0.847
+Arkansas,1116,4,Clemson,1155,8,0.7429
+Connecticut,1163,2,Arkansas,1116,4,0.6388
+Duke,1181,1,Arkansas,1116,4,0.8099
+Florida,1196,1,Arkansas,1116,4,0.5805
+Arkansas,1116,4,Furman,1202,15,0.9486
+Arkansas,1116,4,Georgia,1208,8,0.7432
+Gonzaga,1211,3,Arkansas,1116,4,0.5704
+Arkansas,1116,4,Hawaii,1218,13,0.9105
+Arkansas,1116,4,High Point,1219,12,0.8061
+Arkansas,1116,4,Hofstra,1220,13,0.8672
+Houston,1222,2,Arkansas,1116,4,0.6717
+Arkansas,1116,4,Howard,1224,16,0.8869
+Arkansas,1116,4,Idaho,1225,15,0.9181
+Illinois,1228,3,Arkansas,1116,4,0.7186
+Arkansas,1116,4,Iowa,1234,9,0.6852
+Iowa St,1235,2,Arkansas,1116,4,0.5783
+Kansas,1242,4,Arkansas,1116,4,0.3634
+Arkansas,1116,4,Kennesaw,1244,14,0.9337
+Arkansas,1116,4,Kentucky,1246,7,0.4421
+Arkansas,1116,4,Lehigh,1250,16,0.9448
+Arkansas,1116,4,LIU Brooklyn,1254,16,0.9242
+Arkansas,1116,4,Louisville,1257,6,0.4738
+Arkansas,1116,4,McNeese St,1270,12,0.7422
+Arkansas,1116,4,Miami FL,1274,7,0.6994
+Arkansas,1116,4,Miami OH,1275,11,0.8643
+Michigan,1276,1,Arkansas,1116,4,0.6903
+Michigan St,1277,3,Arkansas,1116,4,0.5073
+Arkansas,1116,4,Missouri,1281,10,0.867
+Arkansas,1116,4,N Dakota St,1295,14,0.8813
+Arkansas,1116,4,NC State,1301,11,0.6224
+Nebraska,1304,4,Arkansas,1116,4,0.5834
+Arkansas,1116,4,North Carolina,1314,6,0.7667
+Arkansas,1116,4,Northern Iowa,1320,12,0.8812
+Arkansas,1116,4,Ohio St,1326,8,0.5917
+Arkansas,1116,4,Penn,1335,14,0.9119
+Arkansas,1116,4,Prairie View,1341,16,0.9328
+Purdue,1345,2,Arkansas,1116,4,0.6216
+Arkansas,1116,4,Queens NC,1474,15,0.9538
+Arkansas,1116,4,Santa Clara,1365,10,0.5221
+Arkansas,1116,4,Siena,1373,16,0.9282
+Arkansas,1116,4,SMU,1374,11,0.682
+Arkansas,1116,4,South Florida,1378,11,0.8544
+Arkansas,1116,4,St John's,1385,5,0.6574
+Arkansas,1116,4,St Louis,1387,9,0.8585
+Arkansas,1116,4,St Mary's CA,1388,7,0.4664
+Arkansas,1116,4,TCU,1395,9,0.8336
+Arkansas,1116,4,Tennessee,1397,6,0.6589
+Arkansas,1116,4,Tennessee St,1398,15,0.8717
+Arkansas,1116,4,Texas,1400,11,0.7318
+Arkansas,1116,4,Texas A&M,1401,10,0.7866
+Arkansas,1116,4,Texas Tech,1403,5,0.6623
+Arkansas,1116,4,Troy,1407,13,0.9331
+Arkansas,1116,4,UCF,1416,10,0.5529
+Arkansas,1116,4,UCLA,1417,7,0.452
+Arkansas,1116,4,UMBC,1420,16,0.902
+Arkansas,1116,4,Utah St,1429,9,0.7802
+Arkansas,1116,4,Vanderbilt,1435,5,0.5786
+Arkansas,1116,4,VCU,1433,11,0.7656
+Arkansas,1116,4,Villanova,1437,8,0.6635
+Virginia,1438,3,Arkansas,1116,4,0.6516
+Arkansas,1116,4,Wisconsin,1458,5,0.4183
+Arkansas,1116,4,Wright St,1460,14,0.9368
+BYU,1140,6,Cal Baptist,1465,13,0.8735
+BYU,1140,6,Clemson,1155,8,0.6337
+Connecticut,1163,2,BYU,1140,6,0.5598
+Duke,1181,1,BYU,1140,6,0.797
+Florida,1196,1,BYU,1140,6,0.7014
+BYU,1140,6,Furman,1202,15,0.9233
+BYU,1140,6,Georgia,1208,8,0.5537
+Gonzaga,1211,3,BYU,1140,6,0.6702
+BYU,1140,6,Hawaii,1218,13,0.8994
+BYU,1140,6,High Point,1219,12,0.7102
+BYU,1140,6,Hofstra,1220,13,0.8959
+Houston,1222,2,BYU,1140,6,0.7377
+BYU,1140,6,Howard,1224,16,0.8313
+BYU,1140,6,Idaho,1225,15,0.9118
+Illinois,1228,3,BYU,1140,6,0.4682
+BYU,1140,6,Iowa,1234,9,0.518
+Iowa St,1235,2,BYU,1140,6,0.5113
+Kansas,1242,4,BYU,1140,6,0.354
+BYU,1140,6,Kennesaw,1244,14,0.9149
+BYU,1140,6,Kentucky,1246,7,0.627
+BYU,1140,6,Lehigh,1250,16,0.9324
+BYU,1140,6,LIU Brooklyn,1254,16,0.8936
+Louisville,1257,6,BYU,1140,6,0.327
+BYU,1140,6,McNeese St,1270,12,0.7893
+BYU,1140,6,Miami FL,1274,7,0.549
+BYU,1140,6,Miami OH,1275,11,0.8018
+Michigan,1276,1,BYU,1140,6,0.6896
+Michigan St,1277,3,BYU,1140,6,0.5371
+BYU,1140,6,Missouri,1281,10,0.7529
+BYU,1140,6,N Dakota St,1295,14,0.9014
+BYU,1140,6,NC State,1301,11,0.7197
+Nebraska,1304,4,BYU,1140,6,0.4642
+North Carolina,1314,6,BYU,1140,6,0.3211
+BYU,1140,6,Northern Iowa,1320,12,0.7363
+BYU,1140,6,Ohio St,1326,8,0.5978
+BYU,1140,6,Penn,1335,14,0.9231
+BYU,1140,6,Prairie View,1341,16,0.9259
+Purdue,1345,2,BYU,1140,6,0.5684
+BYU,1140,6,Queens NC,1474,15,0.9259
+BYU,1140,6,Santa Clara,1365,10,0.7347
+BYU,1140,6,Siena,1373,16,0.9136
+BYU,1140,6,SMU,1374,11,0.7953
+BYU,1140,6,South Florida,1378,11,0.7855
+St John's,1385,5,BYU,1140,6,0.4254
+BYU,1140,6,St Louis,1387,9,0.6718
+BYU,1140,6,St Mary's CA,1388,7,0.5874
+BYU,1140,6,TCU,1395,9,0.6814
+Tennessee,1397,6,BYU,1140,6,0.6026
+BYU,1140,6,Tennessee St,1398,15,0.8534
+BYU,1140,6,Texas,1400,11,0.7041
+BYU,1140,6,Texas A&M,1401,10,0.6673
+Texas Tech,1403,5,BYU,1140,6,0.4551
+BYU,1140,6,Troy,1407,13,0.9116
+BYU,1140,6,UCF,1416,10,0.7594
+BYU,1140,6,UCLA,1417,7,0.5596
+BYU,1140,6,UMBC,1420,16,0.892
+BYU,1140,6,Utah St,1429,9,0.5452
+Vanderbilt,1435,5,BYU,1140,6,0.5643
+BYU,1140,6,VCU,1433,11,0.8097
+BYU,1140,6,Villanova,1437,8,0.5854
+Virginia,1438,3,BYU,1140,6,0.5817
+Wisconsin,1458,5,BYU,1140,6,0.4283
+BYU,1140,6,Wright St,1460,14,0.9207
+Clemson,1155,8,Cal Baptist,1465,13,0.8024
+Connecticut,1163,2,Cal Baptist,1465,13,0.8736
+Duke,1181,1,Cal Baptist,1465,13,0.955
+Florida,1196,1,Cal Baptist,1465,13,0.9359
+Cal Baptist,1465,13,Furman,1202,15,0.8074
+Georgia,1208,8,Cal Baptist,1465,13,0.8697
+Gonzaga,1211,3,Cal Baptist,1465,13,0.9459
+Cal Baptist,1465,13,Hawaii,1218,13,0.5149
+High Point,1219,12,Cal Baptist,1465,13,0.69
+Cal Baptist,1465,13,Hofstra,1220,13,0.6202
+Houston,1222,2,Cal Baptist,1465,13,0.9623
+Cal Baptist,1465,13,Howard,1224,16,0.6998
+Cal Baptist,1465,13,Idaho,1225,15,0.7723
+Illinois,1228,3,Cal Baptist,1465,13,0.8695
+Iowa,1234,9,Cal Baptist,1465,13,0.7985
+Iowa St,1235,2,Cal Baptist,1465,13,0.9026
+Kansas,1242,4,Cal Baptist,1465,13,0.877
+Cal Baptist,1465,13,Kennesaw,1244,14,0.7643
+Kentucky,1246,7,Cal Baptist,1465,13,0.8517
+Cal Baptist,1465,13,Lehigh,1250,16,0.827
+Cal Baptist,1465,13,LIU Brooklyn,1254,16,0.7486
+Louisville,1257,6,Cal Baptist,1465,13,0.879
+McNeese St,1270,12,Cal Baptist,1465,13,0.6184
+Miami FL,1274,7,Cal Baptist,1465,13,0.6721
+Miami OH,1275,11,Cal Baptist,1465,13,0.7641
+Michigan,1276,1,Cal Baptist,1465,13,0.9176
+Michigan St,1277,3,Cal Baptist,1465,13,0.8866
+Missouri,1281,10,Cal Baptist,1465,13,0.6772
+Cal Baptist,1465,13,N Dakota St,1295,14,0.6605
+NC State,1301,11,Cal Baptist,1465,13,0.8188
+Nebraska,1304,4,Cal Baptist,1465,13,0.8171
+North Carolina,1314,6,Cal Baptist,1465,13,0.6347
+Northern Iowa,1320,12,Cal Baptist,1465,13,0.6526
+Ohio St,1326,8,Cal Baptist,1465,13,0.8589
+Cal Baptist,1465,13,Penn,1335,14,0.7779
+Cal Baptist,1465,13,Prairie View,1341,16,0.8686
+Purdue,1345,2,Cal Baptist,1465,13,0.7972
+Cal Baptist,1465,13,Queens NC,1474,15,0.7364
+Santa Clara,1365,10,Cal Baptist,1465,13,0.8256
+Cal Baptist,1465,13,Siena,1373,16,0.7785
+SMU,1374,11,Cal Baptist,1465,13,0.7938
+South Florida,1378,11,Cal Baptist,1465,13,0.5956
+St John's,1385,5,Cal Baptist,1465,13,0.8526
+St Louis,1387,9,Cal Baptist,1465,13,0.7913
+St Mary's CA,1388,7,Cal Baptist,1465,13,0.8826
+TCU,1395,9,Cal Baptist,1465,13,0.7266
+Tennessee,1397,6,Cal Baptist,1465,13,0.8695
+Cal Baptist,1465,13,Tennessee St,1398,15,0.7039
+Texas,1400,11,Cal Baptist,1465,13,0.7155
+Texas A&M,1401,10,Cal Baptist,1465,13,0.764
+Texas Tech,1403,5,Cal Baptist,1465,13,0.8475
+Cal Baptist,1465,13,Troy,1407,13,0.5389
+UCF,1416,10,Cal Baptist,1465,13,0.7885
+UCLA,1417,7,Cal Baptist,1465,13,0.8489
+Cal Baptist,1465,13,UMBC,1420,16,0.8555
+Utah St,1429,9,Cal Baptist,1465,13,0.8225
+Vanderbilt,1435,5,Cal Baptist,1465,13,0.866
+VCU,1433,11,Cal Baptist,1465,13,0.8359
+Villanova,1437,8,Cal Baptist,1465,13,0.7265
+Virginia,1438,3,Cal Baptist,1465,13,0.9181
+Wisconsin,1458,5,Cal Baptist,1465,13,0.8534
+Cal Baptist,1465,13,Wright St,1460,14,0.6288
+Connecticut,1163,2,Clemson,1155,8,0.864
+Duke,1181,1,Clemson,1155,8,0.9391
+Florida,1196,1,Clemson,1155,8,0.7994
+Clemson,1155,8,Furman,1202,15,0.8946
+Clemson,1155,8,Georgia,1208,8,0.3266
+Gonzaga,1211,3,Clemson,1155,8,0.8948
+Clemson,1155,8,Hawaii,1218,13,0.8834
+Clemson,1155,8,High Point,1219,12,0.6538
+Clemson,1155,8,Hofstra,1220,13,0.8051
+Houston,1222,2,Clemson,1155,8,0.8619
+Clemson,1155,8,Howard,1224,16,0.8667
+Clemson,1155,8,Idaho,1225,15,0.9014
+Illinois,1228,3,Clemson,1155,8,0.703
+Clemson,1155,8,Iowa,1234,9,0.3352
+Iowa St,1235,2,Clemson,1155,8,0.7996
+Kansas,1242,4,Clemson,1155,8,0.6703
+Clemson,1155,8,Kennesaw,1244,14,0.8386
+Kentucky,1246,7,Clemson,1155,8,0.6762
+Clemson,1155,8,Lehigh,1250,16,0.9131
+Clemson,1155,8,LIU Brooklyn,1254,16,0.7838
+Louisville,1257,6,Clemson,1155,8,0.4368
+Clemson,1155,8,McNeese St,1270,12,0.6187
+Miami FL,1274,7,Clemson,1155,8,0.4624
+Clemson,1155,8,Miami OH,1275,11,0.7071
+Michigan,1276,1,Clemson,1155,8,0.8957
+Michigan St,1277,3,Clemson,1155,8,0.6034
+Clemson,1155,8,Missouri,1281,10,0.6186
+Clemson,1155,8,N Dakota St,1295,14,0.7721
+Clemson,1155,8,NC State,1301,11,0.362
+Nebraska,1304,4,Clemson,1155,8,0.6274
+North Carolina,1314,6,Clemson,1155,8,0.5412
+Clemson,1155,8,Northern Iowa,1320,12,0.6121
+Clemson,1155,8,Ohio St,1326,8,0.5146
+Clemson,1155,8,Penn,1335,14,0.855
+Clemson,1155,8,Prairie View,1341,16,0.9099
+Purdue,1345,2,Clemson,1155,8,0.7637
+Clemson,1155,8,Queens NC,1474,15,0.8661
+Clemson,1155,8,Santa Clara,1365,10,0.4649
+Clemson,1155,8,Siena,1373,16,0.9028
+Clemson,1155,8,SMU,1374,11,0.4926
+Clemson,1155,8,South Florida,1378,11,0.631
+St John's,1385,5,Clemson,1155,8,0.5871
+Clemson,1155,8,St Louis,1387,9,0.6003
+St Mary's CA,1388,7,Clemson,1155,8,0.7113
+Clemson,1155,8,TCU,1395,9,0.6466
+Tennessee,1397,6,Clemson,1155,8,0.6277
+Clemson,1155,8,Tennessee St,1398,15,0.8529
+Clemson,1155,8,Texas,1400,11,0.5385
+Clemson,1155,8,Texas A&M,1401,10,0.5846
+Texas Tech,1403,5,Clemson,1155,8,0.6468
+Clemson,1155,8,Troy,1407,13,0.798
+Clemson,1155,8,UCF,1416,10,0.6033
+UCLA,1417,7,Clemson,1155,8,0.6577
+Clemson,1155,8,UMBC,1420,16,0.9118
+Clemson,1155,8,Utah St,1429,9,0.4357
+Vanderbilt,1435,5,Clemson,1155,8,0.5882
+Clemson,1155,8,VCU,1433,11,0.3629
+Clemson,1155,8,Villanova,1437,8,0.5132
+Virginia,1438,3,Clemson,1155,8,0.7931
+Wisconsin,1458,5,Clemson,1155,8,0.487
+Clemson,1155,8,Wright St,1460,14,0.785
+Duke,1181,1,Connecticut,1163,2,0.6817
+Florida,1196,1,Connecticut,1163,2,0.4598
+Connecticut,1163,2,Furman,1202,15,0.9663
+Connecticut,1163,2,Georgia,1208,8,0.6981
+Connecticut,1163,2,Gonzaga,1211,3,0.4282
+Connecticut,1163,2,Hawaii,1218,13,0.9006
+Connecticut,1163,2,High Point,1219,12,0.7723
+Connecticut,1163,2,Hofstra,1220,13,0.8555
+Houston,1222,2,Connecticut,1163,2,0.6683
+Connecticut,1163,2,Howard,1224,16,0.9132
+Connecticut,1163,2,Idaho,1225,15,0.9272
+Connecticut,1163,2,Illinois,1228,3,0.463
+Connecticut,1163,2,Iowa,1234,9,0.8227
+Connecticut,1163,2,Iowa St,1235,2,0.5809
+Connecticut,1163,2,Kansas,1242,4,0.6736
+Connecticut,1163,2,Kennesaw,1244,14,0.9487
+Connecticut,1163,2,Kentucky,1246,7,0.7793
+Connecticut,1163,2,Lehigh,1250,16,0.9811
+Connecticut,1163,2,LIU Brooklyn,1254,16,0.9312
+Connecticut,1163,2,Louisville,1257,6,0.7615
+Connecticut,1163,2,McNeese St,1270,12,0.7051
+Connecticut,1163,2,Miami FL,1274,7,0.6579
+Connecticut,1163,2,Miami OH,1275,11,0.8152
+Michigan,1276,1,Connecticut,1163,2,0.5682
+Connecticut,1163,2,Michigan St,1277,3,0.598
+Connecticut,1163,2,Missouri,1281,10,0.8368
+Connecticut,1163,2,N Dakota St,1295,14,0.9314
+Connecticut,1163,2,NC State,1301,11,0.7964
+Connecticut,1163,2,Nebraska,1304,4,0.6578
+Connecticut,1163,2,North Carolina,1314,6,0.758
+Connecticut,1163,2,Northern Iowa,1320,12,0.88
+Connecticut,1163,2,Ohio St,1326,8,0.7805
+Connecticut,1163,2,Penn,1335,14,0.9379
+Connecticut,1163,2,Prairie View,1341,16,0.9237
+Connecticut,1163,2,Purdue,1345,2,0.3864
+Connecticut,1163,2,Queens NC,1474,15,0.9174
+Connecticut,1163,2,Santa Clara,1365,10,0.7048
+Connecticut,1163,2,Siena,1373,16,0.955
+Connecticut,1163,2,SMU,1374,11,0.7348
+Connecticut,1163,2,South Florida,1378,11,0.7305
+Connecticut,1163,2,St John's,1385,5,0.7191
+Connecticut,1163,2,St Louis,1387,9,0.8299
+Connecticut,1163,2,St Mary's CA,1388,7,0.7241
+Connecticut,1163,2,TCU,1395,9,0.826
+Connecticut,1163,2,Tennessee,1397,6,0.7265
+Connecticut,1163,2,Tennessee St,1398,15,0.8895
+Connecticut,1163,2,Texas,1400,11,0.748
+Connecticut,1163,2,Texas A&M,1401,10,0.8462
+Connecticut,1163,2,Texas Tech,1403,5,0.6587
+Connecticut,1163,2,Troy,1407,13,0.9592
+Connecticut,1163,2,UCF,1416,10,0.8402
+Connecticut,1163,2,UCLA,1417,7,0.8286
+Connecticut,1163,2,UMBC,1420,16,0.9132
+Connecticut,1163,2,Utah St,1429,9,0.8114
+Connecticut,1163,2,Vanderbilt,1435,5,0.6627
+Connecticut,1163,2,VCU,1433,11,0.806
+Connecticut,1163,2,Villanova,1437,8,0.8293
+Connecticut,1163,2,Virginia,1438,3,0.6769
+Connecticut,1163,2,Wisconsin,1458,5,0.6947
+Connecticut,1163,2,Wright St,1460,14,0.9282
+Duke,1181,1,Florida,1196,1,0.6345
+Duke,1181,1,Furman,1202,15,0.9817
+Duke,1181,1,Georgia,1208,8,0.7968
+Duke,1181,1,Gonzaga,1211,3,0.6525
+Duke,1181,1,Hawaii,1218,13,0.9593
+Duke,1181,1,High Point,1219,12,0.8653
+Duke,1181,1,Hofstra,1220,13,0.9404
+Duke,1181,1,Houston,1222,2,0.5743
+Duke,1181,1,Howard,1224,16,0.9682
+Duke,1181,1,Idaho,1225,15,0.9584
+Duke,1181,1,Illinois,1228,3,0.7475
+Duke,1181,1,Iowa,1234,9,0.9181
+Duke,1181,1,Iowa St,1235,2,0.5924
+Duke,1181,1,Kansas,1242,4,0.7903
+Duke,1181,1,Kennesaw,1244,14,0.9097
+Duke,1181,1,Kentucky,1246,7,0.8697
+Duke,1181,1,Lehigh,1250,16,0.9641
+Duke,1181,1,LIU Brooklyn,1254,16,0.9108
+Duke,1181,1,Louisville,1257,6,0.8174
+Duke,1181,1,McNeese St,1270,12,0.7687
+Duke,1181,1,Miami FL,1274,7,0.8866
+Duke,1181,1,Miami OH,1275,11,0.8842
+Duke,1181,1,Michigan,1276,1,0.5406
+Duke,1181,1,Michigan St,1277,3,0.8518
+Duke,1181,1,Missouri,1281,10,0.9
+Duke,1181,1,N Dakota St,1295,14,0.9687
+Duke,1181,1,NC State,1301,11,0.865
+Duke,1181,1,Nebraska,1304,4,0.8696
+Duke,1181,1,North Carolina,1314,6,0.9119
+Duke,1181,1,Northern Iowa,1320,12,0.9543
+Duke,1181,1,Ohio St,1326,8,0.909
+Duke,1181,1,Penn,1335,14,0.9746
+Duke,1181,1,Prairie View,1341,16,0.951
+Duke,1181,1,Purdue,1345,2,0.744
+Duke,1181,1,Queens NC,1474,15,0.9395
+Duke,1181,1,Santa Clara,1365,10,0.8231
+Duke,1181,1,Siena,1373,16,0.9837
+Duke,1181,1,SMU,1374,11,0.8739
+Duke,1181,1,South Florida,1378,11,0.9055
+Duke,1181,1,St John's,1385,5,0.7749
+Duke,1181,1,St Louis,1387,9,0.8862
+Duke,1181,1,St Mary's CA,1388,7,0.8109
+Duke,1181,1,TCU,1395,9,0.9405
+Duke,1181,1,Tennessee,1397,6,0.8255
+Duke,1181,1,Tennessee St,1398,15,0.9585
+Duke,1181,1,Texas,1400,11,0.8168
+Duke,1181,1,Texas A&M,1401,10,0.8853
+Duke,1181,1,Texas Tech,1403,5,0.8958
+Duke,1181,1,Troy,1407,13,0.9801
+Duke,1181,1,UCF,1416,10,0.8748
+Duke,1181,1,UCLA,1417,7,0.886
+Duke,1181,1,UMBC,1420,16,0.9485
+Duke,1181,1,Utah St,1429,9,0.8999
+Duke,1181,1,Vanderbilt,1435,5,0.7346
+Duke,1181,1,VCU,1433,11,0.8985
+Duke,1181,1,Villanova,1437,8,0.9068
+Duke,1181,1,Virginia,1438,3,0.7038
+Duke,1181,1,Wisconsin,1458,5,0.7926
+Duke,1181,1,Wright St,1460,14,0.9493
+Florida,1196,1,Furman,1202,15,0.9741
+Florida,1196,1,Georgia,1208,8,0.6945
+Florida,1196,1,Gonzaga,1211,3,0.5514
+Florida,1196,1,Hawaii,1218,13,0.9554
+Florida,1196,1,High Point,1219,12,0.8272
+Florida,1196,1,Hofstra,1220,13,0.922
+Florida,1196,1,Houston,1222,2,0.4248
+Florida,1196,1,Howard,1224,16,0.9054
+Florida,1196,1,Idaho,1225,15,0.9767
+Florida,1196,1,Illinois,1228,3,0.6935
+Florida,1196,1,Iowa,1234,9,0.6723
+Florida,1196,1,Iowa St,1235,2,0.4215
+Florida,1196,1,Kansas,1242,4,0.7653
+Florida,1196,1,Kennesaw,1244,14,0.977
+Florida,1196,1,Kentucky,1246,7,0.6928
+Florida,1196,1,Lehigh,1250,16,0.9662
+Florida,1196,1,LIU Brooklyn,1254,16,0.9509
+Florida,1196,1,Louisville,1257,6,0.6305
+Florida,1196,1,McNeese St,1270,12,0.769
+Florida,1196,1,Miami FL,1274,7,0.7115
+Florida,1196,1,Miami OH,1275,11,0.8677
+Michigan,1276,1,Florida,1196,1,0.6499
+Florida,1196,1,Michigan St,1277,3,0.6013
+Florida,1196,1,Missouri,1281,10,0.9249
+Florida,1196,1,N Dakota St,1295,14,0.928
+Florida,1196,1,NC State,1301,11,0.7329
+Florida,1196,1,Nebraska,1304,4,0.6066
+Florida,1196,1,North Carolina,1314,6,0.7817
+Florida,1196,1,Northern Iowa,1320,12,0.8679
+Florida,1196,1,Ohio St,1326,8,0.8164
+Florida,1196,1,Penn,1335,14,0.9736
+Florida,1196,1,Prairie View,1341,16,0.9526
+Florida,1196,1,Purdue,1345,2,0.4294
+Florida,1196,1,Queens NC,1474,15,0.9616
+Florida,1196,1,Santa Clara,1365,10,0.7309
+Florida,1196,1,Siena,1373,16,0.9714
+Florida,1196,1,SMU,1374,11,0.765
+Florida,1196,1,South Florida,1378,11,0.8009
+Florida,1196,1,St John's,1385,5,0.7653
+Florida,1196,1,St Louis,1387,9,0.8153
+Florida,1196,1,St Mary's CA,1388,7,0.7974
+Florida,1196,1,TCU,1395,9,0.7762
+Florida,1196,1,Tennessee,1397,6,0.6202
+Florida,1196,1,Tennessee St,1398,15,0.915
+Florida,1196,1,Texas,1400,11,0.8834
+Florida,1196,1,Texas A&M,1401,10,0.8524
+Florida,1196,1,Texas Tech,1403,5,0.7672
+Florida,1196,1,Troy,1407,13,0.9707
+Florida,1196,1,UCF,1416,10,0.876
+Florida,1196,1,UCLA,1417,7,0.5752
+Florida,1196,1,UMBC,1420,16,0.9159
+Florida,1196,1,Utah St,1429,9,0.7812
+Florida,1196,1,Vanderbilt,1435,5,0.6415
+Florida,1196,1,VCU,1433,11,0.8462
+Florida,1196,1,Villanova,1437,8,0.7398
+Florida,1196,1,Virginia,1438,3,0.4574
+Florida,1196,1,Wisconsin,1458,5,0.6933
+Florida,1196,1,Wright St,1460,14,0.9607
+Georgia,1208,8,Furman,1202,15,0.908
+Gonzaga,1211,3,Furman,1202,15,0.9751
+Hawaii,1218,13,Furman,1202,15,0.6341
+High Point,1219,12,Furman,1202,15,0.8212
+Hofstra,1220,13,Furman,1202,15,0.7367
+Houston,1222,2,Furman,1202,15,0.9656
+Furman,1202,15,Howard,1224,16,0.7078
+Idaho,1225,15,Furman,1202,15,0.4127
+Illinois,1228,3,Furman,1202,15,0.9551
+Iowa,1234,9,Furman,1202,15,0.8946
+Iowa St,1235,2,Furman,1202,15,0.9556
+Kansas,1242,4,Furman,1202,15,0.9197
+Kennesaw,1244,14,Furman,1202,15,0.445
+Kentucky,1246,7,Furman,1202,15,0.8791
+Furman,1202,15,Lehigh,1250,16,0.5918
+Furman,1202,15,LIU Brooklyn,1254,16,0.3601
+Louisville,1257,6,Furman,1202,15,0.9397
+McNeese St,1270,12,Furman,1202,15,0.8218
+Miami FL,1274,7,Furman,1202,15,0.9113
+Miami OH,1275,11,Furman,1202,15,0.7657
+Michigan,1276,1,Furman,1202,15,0.976
+Michigan St,1277,3,Furman,1202,15,0.9439
+Missouri,1281,10,Furman,1202,15,0.8341
+N Dakota St,1295,14,Furman,1202,15,0.7429
+NC State,1301,11,Furman,1202,15,0.9015
+Nebraska,1304,4,Furman,1202,15,0.9417
+North Carolina,1314,6,Furman,1202,15,0.9332
+Northern Iowa,1320,12,Furman,1202,15,0.7716
+Ohio St,1326,8,Furman,1202,15,0.8684
+Penn,1335,14,Furman,1202,15,0.4426
+Furman,1202,15,Prairie View,1341,16,0.6988
+Purdue,1345,2,Furman,1202,15,0.9458
+Furman,1202,15,Queens NC,1474,15,0.4007
+Santa Clara,1365,10,Furman,1202,15,0.9175
+Furman,1202,15,Siena,1373,16,0.4462
+SMU,1374,11,Furman,1202,15,0.8992
+South Florida,1378,11,Furman,1202,15,0.8874
+St John's,1385,5,Furman,1202,15,0.9383
+St Louis,1387,9,Furman,1202,15,0.8888
+St Mary's CA,1388,7,Furman,1202,15,0.9037
+TCU,1395,9,Furman,1202,15,0.8257
+Tennessee,1397,6,Furman,1202,15,0.9154
+Tennessee St,1398,15,Furman,1202,15,0.6294
+Texas,1400,11,Furman,1202,15,0.8291
+Texas A&M,1401,10,Furman,1202,15,0.7951
+Texas Tech,1403,5,Furman,1202,15,0.9089
+Troy,1407,13,Furman,1202,15,0.6686
+UCF,1416,10,Furman,1202,15,0.8826
+UCLA,1417,7,Furman,1202,15,0.8949
+Furman,1202,15,UMBC,1420,16,0.6105
+Utah St,1429,9,Furman,1202,15,0.9053
+Vanderbilt,1435,5,Furman,1202,15,0.9409
+VCU,1433,11,Furman,1202,15,0.9145
+Villanova,1437,8,Furman,1202,15,0.9149
+Virginia,1438,3,Furman,1202,15,0.9759
+Wisconsin,1458,5,Furman,1202,15,0.9196
+Wright St,1460,14,Furman,1202,15,0.5705
+Gonzaga,1211,3,Georgia,1208,8,0.8065
+Georgia,1208,8,Hawaii,1218,13,0.919
+Georgia,1208,8,High Point,1219,12,0.6931
+Georgia,1208,8,Hofstra,1220,13,0.8258
+Houston,1222,2,Georgia,1208,8,0.8478
+Georgia,1208,8,Howard,1224,16,0.8975
+Georgia,1208,8,Idaho,1225,15,0.8722
+Illinois,1228,3,Georgia,1208,8,0.6823
+Georgia,1208,8,Iowa,1234,9,0.432
+Iowa St,1235,2,Georgia,1208,8,0.6652
+Kansas,1242,4,Georgia,1208,8,0.576
+Georgia,1208,8,Kennesaw,1244,14,0.8983
+Kentucky,1246,7,Georgia,1208,8,0.428
+Georgia,1208,8,Lehigh,1250,16,0.9184
+Georgia,1208,8,LIU Brooklyn,1254,16,0.9048
+Louisville,1257,6,Georgia,1208,8,0.5462
+Georgia,1208,8,McNeese St,1270,12,0.6678
+Miami FL,1274,7,Georgia,1208,8,0.6349
+Georgia,1208,8,Miami OH,1275,11,0.6574
+Michigan,1276,1,Georgia,1208,8,0.6891
+Michigan St,1277,3,Georgia,1208,8,0.5336
+Georgia,1208,8,Missouri,1281,10,0.5898
+Georgia,1208,8,N Dakota St,1295,14,0.8349
+Georgia,1208,8,NC State,1301,11,0.4479
+Nebraska,1304,4,Georgia,1208,8,0.528
+North Carolina,1314,6,Georgia,1208,8,0.3547
+Georgia,1208,8,Northern Iowa,1320,12,0.7756
+Ohio St,1326,8,Georgia,1208,8,0.5644
+Georgia,1208,8,Penn,1335,14,0.8648
+Georgia,1208,8,Prairie View,1341,16,0.9303
+Purdue,1345,2,Georgia,1208,8,0.442
+Georgia,1208,8,Queens NC,1474,15,0.9181
+Georgia,1208,8,Santa Clara,1365,10,0.4145
+Georgia,1208,8,Siena,1373,16,0.8785
+Georgia,1208,8,SMU,1374,11,0.3323
+Georgia,1208,8,South Florida,1378,11,0.7618
+St John's,1385,5,Georgia,1208,8,0.5244
+Georgia,1208,8,St Louis,1387,9,0.5537
+St Mary's CA,1388,7,Georgia,1208,8,0.6035
+Georgia,1208,8,TCU,1395,9,0.4824
+Tennessee,1397,6,Georgia,1208,8,0.5988
+Georgia,1208,8,Tennessee St,1398,15,0.8002
+Georgia,1208,8,Texas,1400,11,0.5328
+Georgia,1208,8,Texas A&M,1401,10,0.7588
+Texas Tech,1403,5,Georgia,1208,8,0.5333
+Georgia,1208,8,Troy,1407,13,0.9043
+Georgia,1208,8,UCF,1416,10,0.4864
+UCLA,1417,7,Georgia,1208,8,0.4152
+Georgia,1208,8,UMBC,1420,16,0.8976
+Georgia,1208,8,Utah St,1429,9,0.4478
+Vanderbilt,1435,5,Georgia,1208,8,0.6238
+Georgia,1208,8,VCU,1433,11,0.5559
+Villanova,1437,8,Georgia,1208,8,0.4008
+Virginia,1438,3,Georgia,1208,8,0.7636
+Wisconsin,1458,5,Georgia,1208,8,0.4865
+Georgia,1208,8,Wright St,1460,14,0.8959
+Gonzaga,1211,3,Hawaii,1218,13,0.9562
+Gonzaga,1211,3,High Point,1219,12,0.8289
+Gonzaga,1211,3,Hofstra,1220,13,0.9457
+Houston,1222,2,Gonzaga,1211,3,0.5157
+Gonzaga,1211,3,Howard,1224,16,0.9657
+Gonzaga,1211,3,Idaho,1225,15,0.9796
+Illinois,1228,3,Gonzaga,1211,3,0.5064
+Gonzaga,1211,3,Iowa,1234,9,0.8692
+Iowa St,1235,2,Gonzaga,1211,3,0.5364
+Gonzaga,1211,3,Kansas,1242,4,0.6691
+Gonzaga,1211,3,Kennesaw,1244,14,0.9464
+Gonzaga,1211,3,Kentucky,1246,7,0.8359
+Gonzaga,1211,3,Lehigh,1250,16,0.9762
+Gonzaga,1211,3,LIU Brooklyn,1254,16,0.9442
+Gonzaga,1211,3,Louisville,1257,6,0.7543
+Gonzaga,1211,3,McNeese St,1270,12,0.7833
+Gonzaga,1211,3,Miami FL,1274,7,0.8714
+Gonzaga,1211,3,Miami OH,1275,11,0.8693
+Michigan,1276,1,Gonzaga,1211,3,0.6209
+Michigan St,1277,3,Gonzaga,1211,3,0.5724
+Gonzaga,1211,3,Missouri,1281,10,0.9202
+Gonzaga,1211,3,N Dakota St,1295,14,0.9764
+Gonzaga,1211,3,NC State,1301,11,0.8919
+Gonzaga,1211,3,Nebraska,1304,4,0.7483
+Gonzaga,1211,3,North Carolina,1314,6,0.8604
+Gonzaga,1211,3,Northern Iowa,1320,12,0.9579
+Gonzaga,1211,3,Ohio St,1326,8,0.8512
+Gonzaga,1211,3,Penn,1335,14,0.9639
+Gonzaga,1211,3,Prairie View,1341,16,0.9541
+Purdue,1345,2,Gonzaga,1211,3,0.6013
+Gonzaga,1211,3,Queens NC,1474,15,0.9684
+Gonzaga,1211,3,Santa Clara,1365,10,0.8467
+Gonzaga,1211,3,Siena,1373,16,0.9828
+Gonzaga,1211,3,SMU,1374,11,0.8943
+Gonzaga,1211,3,South Florida,1378,11,0.8578
+Gonzaga,1211,3,St John's,1385,5,0.6753
+Gonzaga,1211,3,St Louis,1387,9,0.8853
+Gonzaga,1211,3,St Mary's CA,1388,7,0.792
+Gonzaga,1211,3,TCU,1395,9,0.9103
+Gonzaga,1211,3,Tennessee,1397,6,0.7204
+Gonzaga,1211,3,Tennessee St,1398,15,0.9707
+Gonzaga,1211,3,Texas,1400,11,0.8554
+Gonzaga,1211,3,Texas A&M,1401,10,0.8873
+Gonzaga,1211,3,Texas Tech,1403,5,0.7237
+Gonzaga,1211,3,Troy,1407,13,0.9712
+Gonzaga,1211,3,UCF,1416,10,0.8625
+Gonzaga,1211,3,UCLA,1417,7,0.7271
+Gonzaga,1211,3,UMBC,1420,16,0.9582
+Gonzaga,1211,3,Utah St,1429,9,0.8771
+Gonzaga,1211,3,Vanderbilt,1435,5,0.7456
+Gonzaga,1211,3,VCU,1433,11,0.8947
+Gonzaga,1211,3,Villanova,1437,8,0.8679
+Gonzaga,1211,3,Virginia,1438,3,0.5419
+Gonzaga,1211,3,Wisconsin,1458,5,0.7728
+Gonzaga,1211,3,Wright St,1460,14,0.9502
+High Point,1219,12,Hawaii,1218,13,0.8257
+Hofstra,1220,13,Hawaii,1218,13,0.6683
+Houston,1222,2,Hawaii,1218,13,0.9477
+Hawaii,1218,13,Howard,1224,16,0.7182
+Hawaii,1218,13,Idaho,1225,15,0.6167
+Illinois,1228,3,Hawaii,1218,13,0.8708
+Iowa,1234,9,Hawaii,1218,13,0.8485
+Iowa St,1235,2,Hawaii,1218,13,0.9208
+Kansas,1242,4,Hawaii,1218,13,0.8698
+Hawaii,1218,13,Kennesaw,1244,14,0.4614
+Kentucky,1246,7,Hawaii,1218,13,0.8747
+Hawaii,1218,13,Lehigh,1250,16,0.765
+Hawaii,1218,13,LIU Brooklyn,1254,16,0.5527
+Louisville,1257,6,Hawaii,1218,13,0.9215
+McNeese St,1270,12,Hawaii,1218,13,0.7952
+Miami FL,1274,7,Hawaii,1218,13,0.8313
+Miami OH,1275,11,Hawaii,1218,13,0.8171
+Michigan,1276,1,Hawaii,1218,13,0.9526
+Michigan St,1277,3,Hawaii,1218,13,0.8485
+Missouri,1281,10,Hawaii,1218,13,0.7874
+Hawaii,1218,13,N Dakota St,1295,14,0.3292
+NC State,1301,11,Hawaii,1218,13,0.8807
+Nebraska,1304,4,Hawaii,1218,13,0.8451
+North Carolina,1314,6,Hawaii,1218,13,0.8366
+Northern Iowa,1320,12,Hawaii,1218,13,0.7304
+Ohio St,1326,8,Hawaii,1218,13,0.8559
+Hawaii,1218,13,Penn,1335,14,0.4365
+Hawaii,1218,13,Prairie View,1341,16,0.8296
+Purdue,1345,2,Hawaii,1218,13,0.8286
+Hawaii,1218,13,Queens NC,1474,15,0.5942
+Santa Clara,1365,10,Hawaii,1218,13,0.8797
+Hawaii,1218,13,Siena,1373,16,0.5403
+SMU,1374,11,Hawaii,1218,13,0.8853
+South Florida,1378,11,Hawaii,1218,13,0.7145
+St John's,1385,5,Hawaii,1218,13,0.9028
+St Louis,1387,9,Hawaii,1218,13,0.8925
+St Mary's CA,1388,7,Hawaii,1218,13,0.9048
+TCU,1395,9,Hawaii,1218,13,0.8212
+Tennessee,1397,6,Hawaii,1218,13,0.8578
+Hawaii,1218,13,Tennessee St,1398,15,0.5685
+Texas,1400,11,Hawaii,1218,13,0.8213
+Texas A&M,1401,10,Hawaii,1218,13,0.8141
+Texas Tech,1403,5,Hawaii,1218,13,0.9051
+Troy,1407,13,Hawaii,1218,13,0.612
+UCF,1416,10,Hawaii,1218,13,0.8382
+UCLA,1417,7,Hawaii,1218,13,0.8364
+Hawaii,1218,13,UMBC,1420,16,0.7535
+Utah St,1429,9,Hawaii,1218,13,0.8621
+Vanderbilt,1435,5,Hawaii,1218,13,0.934
+VCU,1433,11,Hawaii,1218,13,0.8747
+Villanova,1437,8,Hawaii,1218,13,0.7513
+Virginia,1438,3,Hawaii,1218,13,0.9318
+Wisconsin,1458,5,Hawaii,1218,13,0.888
+Hawaii,1218,13,Wright St,1460,14,0.431
+High Point,1219,12,Hofstra,1220,13,0.5384
+Houston,1222,2,High Point,1219,12,0.808
+High Point,1219,12,Howard,1224,16,0.9311
+High Point,1219,12,Idaho,1225,15,0.8596
+Illinois,1228,3,High Point,1219,12,0.7677
+Iowa,1234,9,High Point,1219,12,0.6366
+Iowa St,1235,2,High Point,1219,12,0.8627
+Kansas,1242,4,High Point,1219,12,0.6526
+High Point,1219,12,Kennesaw,1244,14,0.8001
+Kentucky,1246,7,High Point,1219,12,0.6749
+High Point,1219,12,Lehigh,1250,16,0.9225
+High Point,1219,12,LIU Brooklyn,1254,16,0.8584
+Louisville,1257,6,High Point,1219,12,0.7502
+McNeese St,1270,12,High Point,1219,12,0.6871
+Miami FL,1274,7,High Point,1219,12,0.6956
+Miami OH,1275,11,High Point,1219,12,0.6736
+Michigan,1276,1,High Point,1219,12,0.8318
+Michigan St,1277,3,High Point,1219,12,0.7352
+Missouri,1281,10,High Point,1219,12,0.5602
+High Point,1219,12,N Dakota St,1295,14,0.5663
+NC State,1301,11,High Point,1219,12,0.7462
+Nebraska,1304,4,High Point,1219,12,0.6047
+North Carolina,1314,6,High Point,1219,12,0.6527
+Northern Iowa,1320,12,High Point,1219,12,0.6109
+Ohio St,1326,8,High Point,1219,12,0.6801
+High Point,1219,12,Penn,1335,14,0.8604
+High Point,1219,12,Prairie View,1341,16,0.9417
+Purdue,1345,2,High Point,1219,12,0.6965
+High Point,1219,12,Queens NC,1474,15,0.762
+Santa Clara,1365,10,High Point,1219,12,0.8283
+High Point,1219,12,Siena,1373,16,0.8189
+SMU,1374,11,High Point,1219,12,0.7449
+South Florida,1378,11,High Point,1219,12,0.5699
+St John's,1385,5,High Point,1219,12,0.7468
+St Louis,1387,9,High Point,1219,12,0.7645
+St Mary's CA,1388,7,High Point,1219,12,0.7414
+TCU,1395,9,High Point,1219,12,0.6652
+Tennessee,1397,6,High Point,1219,12,0.6921
+High Point,1219,12,Tennessee St,1398,15,0.8771
+Texas,1400,11,High Point,1219,12,0.6596
+Texas A&M,1401,10,High Point,1219,12,0.6237
+Texas Tech,1403,5,High Point,1219,12,0.6552
+High Point,1219,12,Troy,1407,13,0.7165
+UCF,1416,10,High Point,1219,12,0.6882
+UCLA,1417,7,High Point,1219,12,0.6525
+High Point,1219,12,UMBC,1420,16,0.805
+Utah St,1429,9,High Point,1219,12,0.7729
+Vanderbilt,1435,5,High Point,1219,12,0.7349
+VCU,1433,11,High Point,1219,12,0.7389
+Villanova,1437,8,High Point,1219,12,0.5235
+Virginia,1438,3,High Point,1219,12,0.8071
+Wisconsin,1458,5,High Point,1219,12,0.7294
+High Point,1219,12,Wright St,1460,14,0.6001
+Houston,1222,2,Hofstra,1220,13,0.9668
+Hofstra,1220,13,Howard,1224,16,0.8168
+Hofstra,1220,13,Idaho,1225,15,0.6291
+Illinois,1228,3,Hofstra,1220,13,0.8851
+Iowa,1234,9,Hofstra,1220,13,0.684
+Iowa St,1235,2,Hofstra,1220,13,0.9168
+Kansas,1242,4,Hofstra,1220,13,0.8909
+Hofstra,1220,13,Kennesaw,1244,14,0.7296
+Kentucky,1246,7,Hofstra,1220,13,0.8318
+Hofstra,1220,13,Lehigh,1250,16,0.8068
+Hofstra,1220,13,LIU Brooklyn,1254,16,0.6476
+Louisville,1257,6,Hofstra,1220,13,0.7558
+McNeese St,1270,12,Hofstra,1220,13,0.7224
+Miami FL,1274,7,Hofstra,1220,13,0.8087
+Miami OH,1275,11,Hofstra,1220,13,0.5912
+Michigan,1276,1,Hofstra,1220,13,0.9042
+Michigan St,1277,3,Hofstra,1220,13,0.875
+Missouri,1281,10,Hofstra,1220,13,0.6334
+Hofstra,1220,13,N Dakota St,1295,14,0.593
+NC State,1301,11,Hofstra,1220,13,0.8292
+Nebraska,1304,4,Hofstra,1220,13,0.8371
+North Carolina,1314,6,Hofstra,1220,13,0.7595
+Northern Iowa,1320,12,Hofstra,1220,13,0.6251
+Ohio St,1326,8,Hofstra,1220,13,0.745
+Hofstra,1220,13,Penn,1335,14,0.6937
+Hofstra,1220,13,Prairie View,1341,16,0.8735
+Purdue,1345,2,Hofstra,1220,13,0.8622
+Hofstra,1220,13,Queens NC,1474,15,0.605
+Santa Clara,1365,10,Hofstra,1220,13,0.8654
+Hofstra,1220,13,Siena,1373,16,0.5763
+SMU,1374,11,Hofstra,1220,13,0.8736
+South Florida,1378,11,Hofstra,1220,13,0.7028
+St John's,1385,5,Hofstra,1220,13,0.8603
+St Louis,1387,9,Hofstra,1220,13,0.7198
+St Mary's CA,1388,7,Hofstra,1220,13,0.9046
+TCU,1395,9,Hofstra,1220,13,0.7638
+Tennessee,1397,6,Hofstra,1220,13,0.7586
+Hofstra,1220,13,Tennessee St,1398,15,0.6791
+Texas,1400,11,Hofstra,1220,13,0.8115
+Texas A&M,1401,10,Hofstra,1220,13,0.5958
+Texas Tech,1403,5,Hofstra,1220,13,0.8592
+Hofstra,1220,13,Troy,1407,13,0.7132
+UCF,1416,10,Hofstra,1220,13,0.8231
+UCLA,1417,7,Hofstra,1220,13,0.7256
+Hofstra,1220,13,UMBC,1420,16,0.6782
+Utah St,1429,9,Hofstra,1220,13,0.6576
+Vanderbilt,1435,5,Hofstra,1220,13,0.8227
+VCU,1433,11,Hofstra,1220,13,0.885
+Villanova,1437,8,Hofstra,1220,13,0.6819
+Virginia,1438,3,Hofstra,1220,13,0.9224
+Wisconsin,1458,5,Hofstra,1220,13,0.7818
+Hofstra,1220,13,Wright St,1460,14,0.5538
+Houston,1222,2,Howard,1224,16,0.9597
+Houston,1222,2,Idaho,1225,15,0.9729
+Houston,1222,2,Illinois,1228,3,0.6104
+Houston,1222,2,Iowa,1234,9,0.8758
+Houston,1222,2,Iowa St,1235,2,0.4757
+Houston,1222,2,Kansas,1242,4,0.7888
+Houston,1222,2,Kennesaw,1244,14,0.9672
+Houston,1222,2,Kentucky,1246,7,0.8007
+Houston,1222,2,Lehigh,1250,16,0.9784
+Houston,1222,2,LIU Brooklyn,1254,16,0.9352
+Houston,1222,2,Louisville,1257,6,0.7697
+Houston,1222,2,McNeese St,1270,12,0.9005
+Houston,1222,2,Miami FL,1274,7,0.7731
+Houston,1222,2,Miami OH,1275,11,0.8423
+Michigan,1276,1,Houston,1222,2,0.4515
+Houston,1222,2,Michigan St,1277,3,0.7295
+Houston,1222,2,Missouri,1281,10,0.9369
+Houston,1222,2,N Dakota St,1295,14,0.9596
+Houston,1222,2,NC State,1301,11,0.8867
+Houston,1222,2,Nebraska,1304,4,0.7225
+Houston,1222,2,North Carolina,1314,6,0.8018
+Houston,1222,2,Northern Iowa,1320,12,0.9386
+Houston,1222,2,Ohio St,1326,8,0.8174
+Houston,1222,2,Penn,1335,14,0.9828
+Houston,1222,2,Prairie View,1341,16,0.9757
+Houston,1222,2,Purdue,1345,2,0.3124
+Houston,1222,2,Queens NC,1474,15,0.942
+Houston,1222,2,Santa Clara,1365,10,0.7817
+Houston,1222,2,Siena,1373,16,0.9787
+Houston,1222,2,SMU,1374,11,0.8582
+Houston,1222,2,South Florida,1378,11,0.9006
+Houston,1222,2,St John's,1385,5,0.7639
+Houston,1222,2,St Louis,1387,9,0.8894
+Houston,1222,2,St Mary's CA,1388,7,0.8523
+Houston,1222,2,TCU,1395,9,0.8989
+Houston,1222,2,Tennessee,1397,6,0.8109
+Houston,1222,2,Tennessee St,1398,15,0.9697
+Houston,1222,2,Texas,1400,11,0.8883
+Houston,1222,2,Texas A&M,1401,10,0.9002
+Houston,1222,2,Texas Tech,1403,5,0.6658
+Houston,1222,2,Troy,1407,13,0.9703
+Houston,1222,2,UCF,1416,10,0.8513
+Houston,1222,2,UCLA,1417,7,0.8405
+Houston,1222,2,UMBC,1420,16,0.9562
+Houston,1222,2,Utah St,1429,9,0.8558
+Houston,1222,2,Vanderbilt,1435,5,0.6323
+Houston,1222,2,VCU,1433,11,0.8722
+Houston,1222,2,Villanova,1437,8,0.8124
+Houston,1222,2,Virginia,1438,3,0.634
+Houston,1222,2,Wisconsin,1458,5,0.7282
+Houston,1222,2,Wright St,1460,14,0.9624
+Idaho,1225,15,Howard,1224,16,0.6006
+Illinois,1228,3,Howard,1224,16,0.8509
+Iowa,1234,9,Howard,1224,16,0.833
+Iowa St,1235,2,Howard,1224,16,0.9519
+Kansas,1242,4,Howard,1224,16,0.8635
+Kennesaw,1244,14,Howard,1224,16,0.6703
+Kentucky,1246,7,Howard,1224,16,0.872
+Howard,1224,16,Lehigh,1250,16,0.6828
+LIU Brooklyn,1254,16,Howard,1224,16,0.7641
+Louisville,1257,6,Howard,1224,16,0.8736
+McNeese St,1270,12,Howard,1224,16,0.9175
+Miami FL,1274,7,Howard,1224,16,0.8736
+Miami OH,1275,11,Howard,1224,16,0.8502
+Michigan,1276,1,Howard,1224,16,0.929
+Michigan St,1277,3,Howard,1224,16,0.8346
+Missouri,1281,10,Howard,1224,16,0.7469
+N Dakota St,1295,14,Howard,1224,16,0.8494
+NC State,1301,11,Howard,1224,16,0.9036
+Nebraska,1304,4,Howard,1224,16,0.8674
+North Carolina,1314,6,Howard,1224,16,0.7725
+Northern Iowa,1320,12,Howard,1224,16,0.8088
+Ohio St,1326,8,Howard,1224,16,0.8101
+Penn,1335,14,Howard,1224,16,0.725
+Howard,1224,16,Prairie View,1341,16,0.5105
+Purdue,1345,2,Howard,1224,16,0.7838
+Queens NC,1474,15,Howard,1224,16,0.7039
+Santa Clara,1365,10,Howard,1224,16,0.9045
+Siena,1373,16,Howard,1224,16,0.7716
+SMU,1374,11,Howard,1224,16,0.8638
+South Florida,1378,11,Howard,1224,16,0.909
+St John's,1385,5,Howard,1224,16,0.9146
+St Louis,1387,9,Howard,1224,16,0.9066
+St Mary's CA,1388,7,Howard,1224,16,0.9206
+TCU,1395,9,Howard,1224,16,0.8632
+Tennessee,1397,6,Howard,1224,16,0.8747
+Tennessee St,1398,15,Howard,1224,16,0.6799
+Texas,1400,11,Howard,1224,16,0.7996
+Texas A&M,1401,10,Howard,1224,16,0.8887
+Texas Tech,1403,5,Howard,1224,16,0.8818
+Troy,1407,13,Howard,1224,16,0.855
+UCF,1416,10,Howard,1224,16,0.8517
+UCLA,1417,7,Howard,1224,16,0.8605
+Howard,1224,16,UMBC,1420,16,0.544
+Utah St,1429,9,Howard,1224,16,0.925
+Vanderbilt,1435,5,Howard,1224,16,0.921
+VCU,1433,11,Howard,1224,16,0.8955
+Villanova,1437,8,Howard,1224,16,0.7974
+Virginia,1438,3,Howard,1224,16,0.9151
+Wisconsin,1458,5,Howard,1224,16,0.8785
+Wright St,1460,14,Howard,1224,16,0.8401
+Illinois,1228,3,Idaho,1225,15,0.9407
+Iowa,1234,9,Idaho,1225,15,0.8445
+Iowa St,1235,2,Idaho,1225,15,0.9552
+Kansas,1242,4,Idaho,1225,15,0.8985
+Kennesaw,1244,14,Idaho,1225,15,0.4979
+Kentucky,1246,7,Idaho,1225,15,0.8768
+Idaho,1225,15,Lehigh,1250,16,0.7796
+Idaho,1225,15,LIU Brooklyn,1254,16,0.4017
+Louisville,1257,6,Idaho,1225,15,0.9117
+McNeese St,1270,12,Idaho,1225,15,0.8669
+Miami FL,1274,7,Idaho,1225,15,0.8853
+Miami OH,1275,11,Idaho,1225,15,0.7668
+Michigan,1276,1,Idaho,1225,15,0.949
+Michigan St,1277,3,Idaho,1225,15,0.8763
+Missouri,1281,10,Idaho,1225,15,0.7557
+N Dakota St,1295,14,Idaho,1225,15,0.6876
+NC State,1301,11,Idaho,1225,15,0.8968
+Nebraska,1304,4,Idaho,1225,15,0.9037
+North Carolina,1314,6,Idaho,1225,15,0.911
+Northern Iowa,1320,12,Idaho,1225,15,0.7274
+Ohio St,1326,8,Idaho,1225,15,0.8478
+Penn,1335,14,Idaho,1225,15,0.6016
+Idaho,1225,15,Prairie View,1341,16,0.7106
+Purdue,1345,2,Idaho,1225,15,0.8897
+Idaho,1225,15,Queens NC,1474,15,0.4851
+Santa Clara,1365,10,Idaho,1225,15,0.8791
+Idaho,1225,15,Siena,1373,16,0.3546
+SMU,1374,11,Idaho,1225,15,0.8203
+South Florida,1378,11,Idaho,1225,15,0.8406
+St John's,1385,5,Idaho,1225,15,0.9257
+St Louis,1387,9,Idaho,1225,15,0.89
+St Mary's CA,1388,7,Idaho,1225,15,0.898
+TCU,1395,9,Idaho,1225,15,0.8408
+Tennessee,1397,6,Idaho,1225,15,0.8861
+Tennessee St,1398,15,Idaho,1225,15,0.7229
+Texas,1400,11,Idaho,1225,15,0.8272
+Texas A&M,1401,10,Idaho,1225,15,0.7892
+Texas Tech,1403,5,Idaho,1225,15,0.8935
+Troy,1407,13,Idaho,1225,15,0.6585
+UCF,1416,10,Idaho,1225,15,0.8665
+UCLA,1417,7,Idaho,1225,15,0.8657
+Idaho,1225,15,UMBC,1420,16,0.3315
+Utah St,1429,9,Idaho,1225,15,0.8628
+Vanderbilt,1435,5,Idaho,1225,15,0.938
+VCU,1433,11,Idaho,1225,15,0.8948
+Villanova,1437,8,Idaho,1225,15,0.87
+Virginia,1438,3,Idaho,1225,15,0.9523
+Wisconsin,1458,5,Idaho,1225,15,0.9051
+Wright St,1460,14,Idaho,1225,15,0.6259
+Illinois,1228,3,Iowa,1234,9,0.611
+Iowa St,1235,2,Illinois,1228,3,0.4256
+Illinois,1228,3,Kansas,1242,4,0.7069
+Illinois,1228,3,Kennesaw,1244,14,0.9409
+Illinois,1228,3,Kentucky,1246,7,0.6083
+Illinois,1228,3,Lehigh,1250,16,0.915
+Illinois,1228,3,LIU Brooklyn,1254,16,0.8763
+Illinois,1228,3,Louisville,1257,6,0.6086
+Illinois,1228,3,McNeese St,1270,12,0.7662
+Illinois,1228,3,Miami FL,1274,7,0.5582
+Illinois,1228,3,Miami OH,1275,11,0.7397
+Michigan,1276,1,Illinois,1228,3,0.6138
+Michigan St,1277,3,Illinois,1228,3,0.4897
+Illinois,1228,3,Missouri,1281,10,0.7695
+Illinois,1228,3,N Dakota St,1295,14,0.8904
+Illinois,1228,3,NC State,1301,11,0.7425
+Illinois,1228,3,Nebraska,1304,4,0.6857
+Illinois,1228,3,North Carolina,1314,6,0.7522
+Illinois,1228,3,Northern Iowa,1320,12,0.7176
+Illinois,1228,3,Ohio St,1326,8,0.724
+Illinois,1228,3,Penn,1335,14,0.8962
+Illinois,1228,3,Prairie View,1341,16,0.9058
+Purdue,1345,2,Illinois,1228,3,0.4697
+Illinois,1228,3,Queens NC,1474,15,0.9127
+Illinois,1228,3,Santa Clara,1365,10,0.6978
+Illinois,1228,3,Siena,1373,16,0.8715
+Illinois,1228,3,SMU,1374,11,0.6687
+Illinois,1228,3,South Florida,1378,11,0.7948
+Illinois,1228,3,St John's,1385,5,0.7675
+Illinois,1228,3,St Louis,1387,9,0.7757
+Illinois,1228,3,St Mary's CA,1388,7,0.5507
+Illinois,1228,3,TCU,1395,9,0.7784
+Illinois,1228,3,Tennessee,1397,6,0.6982
+Illinois,1228,3,Tennessee St,1398,15,0.9008
+Illinois,1228,3,Texas,1400,11,0.7968
+Illinois,1228,3,Texas A&M,1401,10,0.7501
+Illinois,1228,3,Texas Tech,1403,5,0.6314
+Illinois,1228,3,Troy,1407,13,0.9194
+Illinois,1228,3,UCF,1416,10,0.8116
+Illinois,1228,3,UCLA,1417,7,0.7546
+Illinois,1228,3,UMBC,1420,16,0.9274
+Illinois,1228,3,Utah St,1429,9,0.746
+Illinois,1228,3,Vanderbilt,1435,5,0.6863
+Illinois,1228,3,VCU,1433,11,0.6563
+Illinois,1228,3,Villanova,1437,8,0.8154
+Illinois,1228,3,Virginia,1438,3,0.6242
+Illinois,1228,3,Wisconsin,1458,5,0.6919
+Illinois,1228,3,Wright St,1460,14,0.9251
+Iowa St,1235,2,Iowa,1234,9,0.8395
+Kansas,1242,4,Iowa,1234,9,0.5398
+Iowa,1234,9,Kennesaw,1244,14,0.7736
+Kentucky,1246,7,Iowa,1234,9,0.4758
+Iowa,1234,9,Lehigh,1250,16,0.9226
+Iowa,1234,9,LIU Brooklyn,1254,16,0.7832
+Louisville,1257,6,Iowa,1234,9,0.4663
+Iowa,1234,9,McNeese St,1270,12,0.5048
+Miami FL,1274,7,Iowa,1234,9,0.5435
+Iowa,1234,9,Miami OH,1275,11,0.7879
+Michigan,1276,1,Iowa,1234,9,0.8169
+Michigan St,1277,3,Iowa,1234,9,0.5857
+Iowa,1234,9,Missouri,1281,10,0.6762
+Iowa,1234,9,N Dakota St,1295,14,0.8281
+Iowa,1234,9,NC State,1301,11,0.675
+Nebraska,1304,4,Iowa,1234,9,0.6623
+North Carolina,1314,6,Iowa,1234,9,0.4384
+Iowa,1234,9,Northern Iowa,1320,12,0.7281
+Ohio St,1326,8,Iowa,1234,9,0.4597
+Iowa,1234,9,Penn,1335,14,0.8926
+Iowa,1234,9,Prairie View,1341,16,0.8526
+Purdue,1345,2,Iowa,1234,9,0.5617
+Iowa,1234,9,Queens NC,1474,15,0.855
+Iowa,1234,9,Santa Clara,1365,10,0.4817
+Iowa,1234,9,Siena,1373,16,0.8322
+Iowa,1234,9,SMU,1374,11,0.5317
+Iowa,1234,9,South Florida,1378,11,0.6439
+St John's,1385,5,Iowa,1234,9,0.5225
+St Louis,1387,9,Iowa,1234,9,0.5878
+St Mary's CA,1388,7,Iowa,1234,9,0.5147
+TCU,1395,9,Iowa,1234,9,0.4108
+Tennessee,1397,6,Iowa,1234,9,0.5116
+Iowa,1234,9,Tennessee St,1398,15,0.7567
+Iowa,1234,9,Texas,1400,11,0.6734
+Iowa,1234,9,Texas A&M,1401,10,0.558
+Texas Tech,1403,5,Iowa,1234,9,0.6061
+Iowa,1234,9,Troy,1407,13,0.8665
+Iowa,1234,9,UCF,1416,10,0.5589
+UCLA,1417,7,Iowa,1234,9,0.5223
+Iowa,1234,9,UMBC,1420,16,0.8736
+Utah St,1429,9,Iowa,1234,9,0.518
+Vanderbilt,1435,5,Iowa,1234,9,0.4335
+Iowa,1234,9,VCU,1433,11,0.5502
+Villanova,1437,8,Iowa,1234,9,0.3644
+Virginia,1438,3,Iowa,1234,9,0.6556
+Wisconsin,1458,5,Iowa,1234,9,0.4178
+Iowa,1234,9,Wright St,1460,14,0.782
+Iowa St,1235,2,Kansas,1242,4,0.5354
+Iowa St,1235,2,Kennesaw,1244,14,0.9116
+Iowa St,1235,2,Kentucky,1246,7,0.765
+Iowa St,1235,2,Lehigh,1250,16,0.9756
+Iowa St,1235,2,LIU Brooklyn,1254,16,0.8941
+Iowa St,1235,2,Louisville,1257,6,0.6646
+Iowa St,1235,2,McNeese St,1270,12,0.6667
+Iowa St,1235,2,Miami FL,1274,7,0.7895
+Iowa St,1235,2,Miami OH,1275,11,0.8327
+Michigan,1276,1,Iowa St,1235,2,0.7044
+Iowa St,1235,2,Michigan St,1277,3,0.5943
+Iowa St,1235,2,Missouri,1281,10,0.9185
+Iowa St,1235,2,N Dakota St,1295,14,0.9624
+Iowa St,1235,2,NC State,1301,11,0.8917
+Iowa St,1235,2,Nebraska,1304,4,0.5899
+Iowa St,1235,2,North Carolina,1314,6,0.8141
+Iowa St,1235,2,Northern Iowa,1320,12,0.9111
+Iowa St,1235,2,Ohio St,1326,8,0.8027
+Iowa St,1235,2,Penn,1335,14,0.9705
+Iowa St,1235,2,Prairie View,1341,16,0.9036
+Iowa St,1235,2,Purdue,1345,2,0.4003
+Iowa St,1235,2,Queens NC,1474,15,0.9433
+Iowa St,1235,2,Santa Clara,1365,10,0.7523
+Iowa St,1235,2,Siena,1373,16,0.9702
+Iowa St,1235,2,SMU,1374,11,0.8084
+Iowa St,1235,2,South Florida,1378,11,0.8732
+Iowa St,1235,2,St John's,1385,5,0.6698
+Iowa St,1235,2,St Louis,1387,9,0.838
+Iowa St,1235,2,St Mary's CA,1388,7,0.7899
+Iowa St,1235,2,TCU,1395,9,0.774
+Iowa St,1235,2,Tennessee,1397,6,0.6423
+Iowa St,1235,2,Tennessee St,1398,15,0.9547
+Iowa St,1235,2,Texas,1400,11,0.8334
+Iowa St,1235,2,Texas A&M,1401,10,0.8901
+Iowa St,1235,2,Texas Tech,1403,5,0.5597
+Iowa St,1235,2,Troy,1407,13,0.9626
+Iowa St,1235,2,UCF,1416,10,0.8525
+Iowa St,1235,2,UCLA,1417,7,0.7974
+Iowa St,1235,2,UMBC,1420,16,0.9256
+Iowa St,1235,2,Utah St,1429,9,0.8925
+Iowa St,1235,2,Vanderbilt,1435,5,0.6225
+Iowa St,1235,2,VCU,1433,11,0.8361
+Iowa St,1235,2,Villanova,1437,8,0.7797
+Iowa St,1235,2,Virginia,1438,3,0.643
+Iowa St,1235,2,Wisconsin,1458,5,0.7776
+Iowa St,1235,2,Wright St,1460,14,0.9315
+Kansas,1242,4,Kennesaw,1244,14,0.87
+Kansas,1242,4,Kentucky,1246,7,0.4527
+Kansas,1242,4,Lehigh,1250,16,0.9231
+Kansas,1242,4,LIU Brooklyn,1254,16,0.7445
+Kansas,1242,4,Louisville,1257,6,0.4092
+Kansas,1242,4,McNeese St,1270,12,0.6843
+Kansas,1242,4,Miami FL,1274,7,0.5667
+Kansas,1242,4,Miami OH,1275,11,0.7482
+Michigan,1276,1,Kansas,1242,4,0.8822
+Michigan St,1277,3,Kansas,1242,4,0.6231
+Kansas,1242,4,Missouri,1281,10,0.6553
+Kansas,1242,4,N Dakota St,1295,14,0.8295
+Kansas,1242,4,NC State,1301,11,0.5984
+Nebraska,1304,4,Kansas,1242,4,0.4372
+Kansas,1242,4,North Carolina,1314,6,0.6383
+Kansas,1242,4,Northern Iowa,1320,12,0.5979
+Kansas,1242,4,Ohio St,1326,8,0.5773
+Kansas,1242,4,Penn,1335,14,0.9167
+Kansas,1242,4,Prairie View,1341,16,0.9157
+Purdue,1345,2,Kansas,1242,4,0.5957
+Kansas,1242,4,Queens NC,1474,15,0.8544
+Kansas,1242,4,Santa Clara,1365,10,0.5238
+Kansas,1242,4,Siena,1373,16,0.8484
+Kansas,1242,4,SMU,1374,11,0.5733
+Kansas,1242,4,South Florida,1378,11,0.6671
+Kansas,1242,4,St John's,1385,5,0.5569
+Kansas,1242,4,St Louis,1387,9,0.7153
+Kansas,1242,4,St Mary's CA,1388,7,0.4118
+Kansas,1242,4,TCU,1395,9,0.6499
+Kansas,1242,4,Tennessee,1397,6,0.4714
+Kansas,1242,4,Tennessee St,1398,15,0.8311
+Kansas,1242,4,Texas,1400,11,0.6582
+Kansas,1242,4,Texas A&M,1401,10,0.7232
+Kansas,1242,4,Texas Tech,1403,5,0.5278
+Kansas,1242,4,Troy,1407,13,0.8393
+Kansas,1242,4,UCF,1416,10,0.5156
+Kansas,1242,4,UCLA,1417,7,0.5203
+Kansas,1242,4,UMBC,1420,16,0.9236
+Kansas,1242,4,Utah St,1429,9,0.6876
+Kansas,1242,4,Vanderbilt,1435,5,0.3638
+Kansas,1242,4,VCU,1433,11,0.6604
+Kansas,1242,4,Villanova,1437,8,0.5461
+Virginia,1438,3,Kansas,1242,4,0.7045
+Kansas,1242,4,Wisconsin,1458,5,0.3633
+Kansas,1242,4,Wright St,1460,14,0.8339
+Kentucky,1246,7,Kennesaw,1244,14,0.8845
+Kennesaw,1244,14,Lehigh,1250,16,0.5954
+Kennesaw,1244,14,LIU Brooklyn,1254,16,0.4494
+Louisville,1257,6,Kennesaw,1244,14,0.842
+McNeese St,1270,12,Kennesaw,1244,14,0.8359
+Miami FL,1274,7,Kennesaw,1244,14,0.8028
+Miami OH,1275,11,Kennesaw,1244,14,0.6878
+Michigan,1276,1,Kennesaw,1244,14,0.9586
+Michigan St,1277,3,Kennesaw,1244,14,0.9191
+Missouri,1281,10,Kennesaw,1244,14,0.7548
+N Dakota St,1295,14,Kennesaw,1244,14,0.6234
+NC State,1301,11,Kennesaw,1244,14,0.7784
+Nebraska,1304,4,Kennesaw,1244,14,0.8497
+North Carolina,1314,6,Kennesaw,1244,14,0.7886
+Northern Iowa,1320,12,Kennesaw,1244,14,0.7398
+Ohio St,1326,8,Kennesaw,1244,14,0.8141
+Penn,1335,14,Kennesaw,1244,14,0.4676
+Kennesaw,1244,14,Prairie View,1341,16,0.8436
+Purdue,1345,2,Kennesaw,1244,14,0.7855
+Kennesaw,1244,14,Queens NC,1474,15,0.5709
+Santa Clara,1365,10,Kennesaw,1244,14,0.8158
+Kennesaw,1244,14,Siena,1373,16,0.4363
+SMU,1374,11,Kennesaw,1244,14,0.7937
+South Florida,1378,11,Kennesaw,1244,14,0.8905
+St John's,1385,5,Kennesaw,1244,14,0.9528
+St Louis,1387,9,Kennesaw,1244,14,0.7162
+St Mary's CA,1388,7,Kennesaw,1244,14,0.853
+TCU,1395,9,Kennesaw,1244,14,0.8161
+Tennessee,1397,6,Kennesaw,1244,14,0.8952
+Kennesaw,1244,14,Tennessee St,1398,15,0.5128
+Texas,1400,11,Kennesaw,1244,14,0.7999
+Texas A&M,1401,10,Kennesaw,1244,14,0.6827
+Texas Tech,1403,5,Kennesaw,1244,14,0.8568
+Troy,1407,13,Kennesaw,1244,14,0.6462
+UCF,1416,10,Kennesaw,1244,14,0.7642
+UCLA,1417,7,Kennesaw,1244,14,0.7757
+Kennesaw,1244,14,UMBC,1420,16,0.4708
+Utah St,1429,9,Kennesaw,1244,14,0.7028
+Vanderbilt,1435,5,Kennesaw,1244,14,0.9293
+VCU,1433,11,Kennesaw,1244,14,0.9283
+Villanova,1437,8,Kennesaw,1244,14,0.7806
+Virginia,1438,3,Kennesaw,1244,14,0.9716
+Wisconsin,1458,5,Kennesaw,1244,14,0.7618
+Wright St,1460,14,Kennesaw,1244,14,0.6471
+Kentucky,1246,7,Lehigh,1250,16,0.8983
+Kentucky,1246,7,LIU Brooklyn,1254,16,0.8794
+Louisville,1257,6,Kentucky,1246,7,0.3896
+Kentucky,1246,7,McNeese St,1270,12,0.7304
+Kentucky,1246,7,Miami FL,1274,7,0.644
+Kentucky,1246,7,Miami OH,1275,11,0.6914
+Michigan,1276,1,Kentucky,1246,7,0.8226
+Michigan St,1277,3,Kentucky,1246,7,0.64
+Kentucky,1246,7,Missouri,1281,10,0.7534
+Kentucky,1246,7,N Dakota St,1295,14,0.8479
+Kentucky,1246,7,NC State,1301,11,0.6179
+Nebraska,1304,4,Kentucky,1246,7,0.5031
+North Carolina,1314,6,Kentucky,1246,7,0.3408
+Kentucky,1246,7,Northern Iowa,1320,12,0.7758
+Kentucky,1246,7,Ohio St,1326,8,0.6397
+Kentucky,1246,7,Penn,1335,14,0.8911
+Kentucky,1246,7,Prairie View,1341,16,0.916
+Purdue,1345,2,Kentucky,1246,7,0.5062
+Kentucky,1246,7,Queens NC,1474,15,0.8768
+Kentucky,1246,7,Santa Clara,1365,10,0.5622
+Kentucky,1246,7,Siena,1373,16,0.8946
+Kentucky,1246,7,SMU,1374,11,0.6103
+Kentucky,1246,7,South Florida,1378,11,0.7829
+St John's,1385,5,Kentucky,1246,7,0.5508
+Kentucky,1246,7,St Louis,1387,9,0.5344
+Kentucky,1246,7,St Mary's CA,1388,7,0.476
+Kentucky,1246,7,TCU,1395,9,0.6469
+Tennessee,1397,6,Kentucky,1246,7,0.5924
+Kentucky,1246,7,Tennessee St,1398,15,0.7766
+Kentucky,1246,7,Texas,1400,11,0.5971
+Kentucky,1246,7,Texas A&M,1401,10,0.6451
+Texas Tech,1403,5,Kentucky,1246,7,0.53
+Kentucky,1246,7,Troy,1407,13,0.9084
+Kentucky,1246,7,UCF,1416,10,0.69
+Kentucky,1246,7,UCLA,1417,7,0.4707
+Kentucky,1246,7,UMBC,1420,16,0.8266
+Kentucky,1246,7,Utah St,1429,9,0.5995
+Vanderbilt,1435,5,Kentucky,1246,7,0.468
+Kentucky,1246,7,VCU,1433,11,0.7545
+Kentucky,1246,7,Villanova,1437,8,0.5963
+Virginia,1438,3,Kentucky,1246,7,0.5906
+Wisconsin,1458,5,Kentucky,1246,7,0.5156
+Kentucky,1246,7,Wright St,1460,14,0.892
+LIU Brooklyn,1254,16,Lehigh,1250,16,0.7532
+Louisville,1257,6,Lehigh,1250,16,0.9358
+McNeese St,1270,12,Lehigh,1250,16,0.8863
+Miami FL,1274,7,Lehigh,1250,16,0.9238
+Miami OH,1275,11,Lehigh,1250,16,0.8814
+Michigan,1276,1,Lehigh,1250,16,0.9509
+Michigan St,1277,3,Lehigh,1250,16,0.9155
+Missouri,1281,10,Lehigh,1250,16,0.8339
+N Dakota St,1295,14,Lehigh,1250,16,0.8757
+NC State,1301,11,Lehigh,1250,16,0.9269
+Nebraska,1304,4,Lehigh,1250,16,0.9599
+North Carolina,1314,6,Lehigh,1250,16,0.9086
+Northern Iowa,1320,12,Lehigh,1250,16,0.9017
+Ohio St,1326,8,Lehigh,1250,16,0.8871
+Penn,1335,14,Lehigh,1250,16,0.7684
+Lehigh,1250,16,Prairie View,1341,16,0.5889
+Purdue,1345,2,Lehigh,1250,16,0.9206
+Queens NC,1474,15,Lehigh,1250,16,0.6098
+Santa Clara,1365,10,Lehigh,1250,16,0.9392
+Siena,1373,16,Lehigh,1250,16,0.7144
+SMU,1374,11,Lehigh,1250,16,0.914
+South Florida,1378,11,Lehigh,1250,16,0.9309
+St John's,1385,5,Lehigh,1250,16,0.9516
+St Louis,1387,9,Lehigh,1250,16,0.9485
+St Mary's CA,1388,7,Lehigh,1250,16,0.9045
+TCU,1395,9,Lehigh,1250,16,0.8463
+Tennessee,1397,6,Lehigh,1250,16,0.923
+Tennessee St,1398,15,Lehigh,1250,16,0.7521
+Texas,1400,11,Lehigh,1250,16,0.8273
+Texas A&M,1401,10,Lehigh,1250,16,0.8817
+Texas Tech,1403,5,Lehigh,1250,16,0.9155
+Troy,1407,13,Lehigh,1250,16,0.8282
+UCF,1416,10,Lehigh,1250,16,0.8805
+UCLA,1417,7,Lehigh,1250,16,0.9154
+UMBC,1420,16,Lehigh,1250,16,0.6951
+Utah St,1429,9,Lehigh,1250,16,0.9426
+Vanderbilt,1435,5,Lehigh,1250,16,0.9412
+VCU,1433,11,Lehigh,1250,16,0.9444
+Villanova,1437,8,Lehigh,1250,16,0.9221
+Virginia,1438,3,Lehigh,1250,16,0.9813
+Wisconsin,1458,5,Lehigh,1250,16,0.9004
+Wright St,1460,14,Lehigh,1250,16,0.8019
+Louisville,1257,6,LIU Brooklyn,1254,16,0.8282
+McNeese St,1270,12,LIU Brooklyn,1254,16,0.8751
+Miami FL,1274,7,LIU Brooklyn,1254,16,0.8689
+Miami OH,1275,11,LIU Brooklyn,1254,16,0.6502
+Michigan,1276,1,LIU Brooklyn,1254,16,0.9418
+Michigan St,1277,3,LIU Brooklyn,1254,16,0.834
+Missouri,1281,10,LIU Brooklyn,1254,16,0.679
+N Dakota St,1295,14,LIU Brooklyn,1254,16,0.5901
+NC State,1301,11,LIU Brooklyn,1254,16,0.8649
+Nebraska,1304,4,LIU Brooklyn,1254,16,0.7897
+North Carolina,1314,6,LIU Brooklyn,1254,16,0.7555
+Northern Iowa,1320,12,LIU Brooklyn,1254,16,0.7051
+Ohio St,1326,8,LIU Brooklyn,1254,16,0.7823
+Penn,1335,14,LIU Brooklyn,1254,16,0.4515
+LIU Brooklyn,1254,16,Prairie View,1341,16,0.8048
+Purdue,1345,2,LIU Brooklyn,1254,16,0.7875
+Queens NC,1474,15,LIU Brooklyn,1254,16,0.4376
+Santa Clara,1365,10,LIU Brooklyn,1254,16,0.8872
+Siena,1373,16,LIU Brooklyn,1254,16,0.4843
+SMU,1374,11,LIU Brooklyn,1254,16,0.8429
+South Florida,1378,11,LIU Brooklyn,1254,16,0.8371
+St John's,1385,5,LIU Brooklyn,1254,16,0.9187
+St Louis,1387,9,LIU Brooklyn,1254,16,0.844
+St Mary's CA,1388,7,LIU Brooklyn,1254,16,0.8234
+TCU,1395,9,LIU Brooklyn,1254,16,0.8262
+Tennessee,1397,6,LIU Brooklyn,1254,16,0.8635
+Tennessee St,1398,15,LIU Brooklyn,1254,16,0.3946
+Texas,1400,11,LIU Brooklyn,1254,16,0.7211
+Texas A&M,1401,10,LIU Brooklyn,1254,16,0.7491
+Texas Tech,1403,5,LIU Brooklyn,1254,16,0.8251
+Troy,1407,13,LIU Brooklyn,1254,16,0.4535
+UCF,1416,10,LIU Brooklyn,1254,16,0.8036
+UCLA,1417,7,LIU Brooklyn,1254,16,0.7327
+LIU Brooklyn,1254,16,UMBC,1420,16,0.6993
+Utah St,1429,9,LIU Brooklyn,1254,16,0.7891
+Vanderbilt,1435,5,LIU Brooklyn,1254,16,0.9182
+VCU,1433,11,LIU Brooklyn,1254,16,0.8724
+Villanova,1437,8,LIU Brooklyn,1254,16,0.8094
+Virginia,1438,3,LIU Brooklyn,1254,16,0.9295
+Wisconsin,1458,5,LIU Brooklyn,1254,16,0.82
+Wright St,1460,14,LIU Brooklyn,1254,16,0.5635
+Louisville,1257,6,McNeese St,1270,12,0.66
+Louisville,1257,6,Miami FL,1274,7,0.5348
+Louisville,1257,6,Miami OH,1275,11,0.8074
+Michigan,1276,1,Louisville,1257,6,0.8272
+Michigan St,1277,3,Louisville,1257,6,0.5213
+Louisville,1257,6,Missouri,1281,10,0.6946
+Louisville,1257,6,N Dakota St,1295,14,0.8854
+Louisville,1257,6,NC State,1301,11,0.7206
+Nebraska,1304,4,Louisville,1257,6,0.401
+North Carolina,1314,6,Louisville,1257,6,0.3332
+Louisville,1257,6,Northern Iowa,1320,12,0.7447
+Louisville,1257,6,Ohio St,1326,8,0.6531
+Louisville,1257,6,Penn,1335,14,0.9082
+Louisville,1257,6,Prairie View,1341,16,0.8861
+Purdue,1345,2,Louisville,1257,6,0.5815
+Louisville,1257,6,Queens NC,1474,15,0.9169
+Louisville,1257,6,Santa Clara,1365,10,0.5488
+Louisville,1257,6,Siena,1373,16,0.9132
+Louisville,1257,6,SMU,1374,11,0.5246
+Louisville,1257,6,South Florida,1378,11,0.6748
+St John's,1385,5,Louisville,1257,6,0.461
+Louisville,1257,6,St Louis,1387,9,0.6706
+Louisville,1257,6,St Mary's CA,1388,7,0.4078
+Louisville,1257,6,TCU,1395,9,0.5092
+Tennessee,1397,6,Louisville,1257,6,0.66
+Louisville,1257,6,Tennessee St,1398,15,0.8581
+Louisville,1257,6,Texas,1400,11,0.6404
+Louisville,1257,6,Texas A&M,1401,10,0.6816
+Texas Tech,1403,5,Louisville,1257,6,0.4946
+Louisville,1257,6,Troy,1407,13,0.9183
+Louisville,1257,6,UCF,1416,10,0.6761
+Louisville,1257,6,UCLA,1417,7,0.457
+Louisville,1257,6,UMBC,1420,16,0.8319
+Louisville,1257,6,Utah St,1429,9,0.629
+Vanderbilt,1435,5,Louisville,1257,6,0.5268
+Louisville,1257,6,VCU,1433,11,0.6206
+Louisville,1257,6,Villanova,1437,8,0.4987
+Virginia,1438,3,Louisville,1257,6,0.6839
+Wisconsin,1458,5,Louisville,1257,6,0.6106
+Louisville,1257,6,Wright St,1460,14,0.8976
+Miami FL,1274,7,McNeese St,1270,12,0.6535
+Miami OH,1275,11,McNeese St,1270,12,0.478
+Michigan,1276,1,McNeese St,1270,12,0.8042
+Michigan St,1277,3,McNeese St,1270,12,0.668
+Missouri,1281,10,McNeese St,1270,12,0.3702
+McNeese St,1270,12,N Dakota St,1295,14,0.7942
+NC State,1301,11,McNeese St,1270,12,0.7188
+Nebraska,1304,4,McNeese St,1270,12,0.5014
+North Carolina,1314,6,McNeese St,1270,12,0.6414
+McNeese St,1270,12,Northern Iowa,1320,12,0.668
+Ohio St,1326,8,McNeese St,1270,12,0.6976
+McNeese St,1270,12,Penn,1335,14,0.8378
+McNeese St,1270,12,Prairie View,1341,16,0.9499
+Purdue,1345,2,McNeese St,1270,12,0.6598
+McNeese St,1270,12,Queens NC,1474,15,0.8491
+Santa Clara,1365,10,McNeese St,1270,12,0.6802
+McNeese St,1270,12,Siena,1373,16,0.8913
+SMU,1374,11,McNeese St,1270,12,0.7183
+South Florida,1378,11,McNeese St,1270,12,0.3336
+St John's,1385,5,McNeese St,1270,12,0.6162
+St Louis,1387,9,McNeese St,1270,12,0.3945
+St Mary's CA,1388,7,McNeese St,1270,12,0.7691
+TCU,1395,9,McNeese St,1270,12,0.5472
+Tennessee,1397,6,McNeese St,1270,12,0.7486
+McNeese St,1270,12,Tennessee St,1398,15,0.8399
+Texas,1400,11,McNeese St,1270,12,0.5001
+Texas A&M,1401,10,McNeese St,1270,12,0.3992
+Texas Tech,1403,5,McNeese St,1270,12,0.7155
+McNeese St,1270,12,Troy,1407,13,0.8748
+UCF,1416,10,McNeese St,1270,12,0.632
+UCLA,1417,7,McNeese St,1270,12,0.6079
+McNeese St,1270,12,UMBC,1420,16,0.8488
+Utah St,1429,9,McNeese St,1270,12,0.4297
+Vanderbilt,1435,5,McNeese St,1270,12,0.7542
+VCU,1433,11,McNeese St,1270,12,0.514
+Villanova,1437,8,McNeese St,1270,12,0.5813
+Virginia,1438,3,McNeese St,1270,12,0.7381
+Wisconsin,1458,5,McNeese St,1270,12,0.616
+McNeese St,1270,12,Wright St,1460,14,0.7975
+Miami FL,1274,7,Miami OH,1275,11,0.7445
+Michigan,1276,1,Miami FL,1274,7,0.858
+Michigan St,1277,3,Miami FL,1274,7,0.6312
+Miami FL,1274,7,Missouri,1281,10,0.7905
+Miami FL,1274,7,N Dakota St,1295,14,0.8824
+Miami FL,1274,7,NC State,1301,11,0.7351
+Nebraska,1304,4,Miami FL,1274,7,0.6038
+North Carolina,1314,6,Miami FL,1274,7,0.4218
+Miami FL,1274,7,Northern Iowa,1320,12,0.5758
+Miami FL,1274,7,Ohio St,1326,8,0.675
+Miami FL,1274,7,Penn,1335,14,0.8993
+Miami FL,1274,7,Prairie View,1341,16,0.8998
+Purdue,1345,2,Miami FL,1274,7,0.7197
+Miami FL,1274,7,Queens NC,1474,15,0.9168
+Miami FL,1274,7,Santa Clara,1365,10,0.6315
+Miami FL,1274,7,Siena,1373,16,0.9143
+Miami FL,1274,7,SMU,1374,11,0.5567
+Miami FL,1274,7,South Florida,1378,11,0.7253
+St John's,1385,5,Miami FL,1274,7,0.508
+Miami FL,1274,7,St Louis,1387,9,0.4323
+St Mary's CA,1388,7,Miami FL,1274,7,0.4468
+Miami FL,1274,7,TCU,1395,9,0.4455
+Tennessee,1397,6,Miami FL,1274,7,0.6639
+Miami FL,1274,7,Tennessee St,1398,15,0.8541
+Miami FL,1274,7,Texas,1400,11,0.6942
+Miami FL,1274,7,Texas A&M,1401,10,0.738
+Texas Tech,1403,5,Miami FL,1274,7,0.6398
+Miami FL,1274,7,Troy,1407,13,0.9039
+Miami FL,1274,7,UCF,1416,10,0.628
+Miami FL,1274,7,UCLA,1417,7,0.4965
+Miami FL,1274,7,UMBC,1420,16,0.8862
+Miami FL,1274,7,Utah St,1429,9,0.6404
+Vanderbilt,1435,5,Miami FL,1274,7,0.5119
+Miami FL,1274,7,VCU,1433,11,0.6693
+Miami FL,1274,7,Villanova,1437,8,0.5875
+Virginia,1438,3,Miami FL,1274,7,0.7147
+Wisconsin,1458,5,Miami FL,1274,7,0.6476
+Miami FL,1274,7,Wright St,1460,14,0.9149
+Michigan,1276,1,Miami OH,1275,11,0.8562
+Michigan St,1277,3,Miami OH,1275,11,0.6472
+Missouri,1281,10,Miami OH,1275,11,0.6235
+Miami OH,1275,11,N Dakota St,1295,14,0.6083
+NC State,1301,11,Miami OH,1275,11,0.7386
+Nebraska,1304,4,Miami OH,1275,11,0.6626
+North Carolina,1314,6,Miami OH,1275,11,0.7267
+Miami OH,1275,11,Northern Iowa,1320,12,0.7609
+Ohio St,1326,8,Miami OH,1275,11,0.6695
+Miami OH,1275,11,Penn,1335,14,0.8436
+Miami OH,1275,11,Prairie View,1341,16,0.8764
+Purdue,1345,2,Miami OH,1275,11,0.7442
+Miami OH,1275,11,Queens NC,1474,15,0.7694
+Santa Clara,1365,10,Miami OH,1275,11,0.7651
+Miami OH,1275,11,Siena,1373,16,0.6757
+SMU,1374,11,Miami OH,1275,11,0.7797
+Miami OH,1275,11,South Florida,1378,11,0.4524
+St John's,1385,5,Miami OH,1275,11,0.7903
+St Louis,1387,9,Miami OH,1275,11,0.7775
+St Mary's CA,1388,7,Miami OH,1275,11,0.7177
+TCU,1395,9,Miami OH,1275,11,0.7095
+Tennessee,1397,6,Miami OH,1275,11,0.7469
+Miami OH,1275,11,Tennessee St,1398,15,0.6754
+Texas,1400,11,Miami OH,1275,11,0.5537
+Texas A&M,1401,10,Miami OH,1275,11,0.622
+Texas Tech,1403,5,Miami OH,1275,11,0.6759
+Miami OH,1275,11,Troy,1407,13,0.7155
+UCF,1416,10,Miami OH,1275,11,0.6855
+UCLA,1417,7,Miami OH,1275,11,0.71
+Miami OH,1275,11,UMBC,1420,16,0.7428
+Utah St,1429,9,Miami OH,1275,11,0.7571
+Vanderbilt,1435,5,Miami OH,1275,11,0.7928
+Miami OH,1275,11,VCU,1433,11,0.3616
+Villanova,1437,8,Miami OH,1275,11,0.6738
+Virginia,1438,3,Miami OH,1275,11,0.8151
+Wisconsin,1458,5,Miami OH,1275,11,0.7102
+Miami OH,1275,11,Wright St,1460,14,0.5448
+Michigan,1276,1,Michigan St,1277,3,0.7594
+Michigan,1276,1,Missouri,1281,10,0.8964
+Michigan,1276,1,N Dakota St,1295,14,0.9128
+Michigan,1276,1,NC State,1301,11,0.8646
+Michigan,1276,1,Nebraska,1304,4,0.658
+Michigan,1276,1,North Carolina,1314,6,0.9211
+Michigan,1276,1,Northern Iowa,1320,12,0.8932
+Michigan,1276,1,Ohio St,1326,8,0.8756
+Michigan,1276,1,Penn,1335,14,0.9545
+Michigan,1276,1,Prairie View,1341,16,0.9186
+Michigan,1276,1,Purdue,1345,2,0.4845
+Michigan,1276,1,Queens NC,1474,15,0.9495
+Michigan,1276,1,Santa Clara,1365,10,0.8331
+Michigan,1276,1,Siena,1373,16,0.9692
+Michigan,1276,1,SMU,1374,11,0.858
+Michigan,1276,1,South Florida,1378,11,0.8525
+Michigan,1276,1,St John's,1385,5,0.7351
+Michigan,1276,1,St Louis,1387,9,0.8312
+Michigan,1276,1,St Mary's CA,1388,7,0.8005
+Michigan,1276,1,TCU,1395,9,0.8699
+Michigan,1276,1,Tennessee,1397,6,0.8372
+Michigan,1276,1,Tennessee St,1398,15,0.9117
+Michigan,1276,1,Texas,1400,11,0.8063
+Michigan,1276,1,Texas A&M,1401,10,0.8918
+Michigan,1276,1,Texas Tech,1403,5,0.8372
+Michigan,1276,1,Troy,1407,13,0.9489
+Michigan,1276,1,UCF,1416,10,0.9048
+Michigan,1276,1,UCLA,1417,7,0.8456
+Michigan,1276,1,UMBC,1420,16,0.9284
+Michigan,1276,1,Utah St,1429,9,0.8646
+Michigan,1276,1,Vanderbilt,1435,5,0.8138
+Michigan,1276,1,VCU,1433,11,0.8266
+Michigan,1276,1,Villanova,1437,8,0.8322
+Michigan,1276,1,Virginia,1438,3,0.6392
+Michigan,1276,1,Wisconsin,1458,5,0.8992
+Michigan,1276,1,Wright St,1460,14,0.8968
+Michigan St,1277,3,Missouri,1281,10,0.7595
+Michigan St,1277,3,N Dakota St,1295,14,0.8026
+Michigan St,1277,3,NC State,1301,11,0.6503
+Michigan St,1277,3,Nebraska,1304,4,0.725
+Michigan St,1277,3,North Carolina,1314,6,0.7637
+Michigan St,1277,3,Northern Iowa,1320,12,0.594
+Michigan St,1277,3,Ohio St,1326,8,0.7671
+Michigan St,1277,3,Penn,1335,14,0.9059
+Michigan St,1277,3,Prairie View,1341,16,0.882
+Purdue,1345,2,Michigan St,1277,3,0.6272
+Michigan St,1277,3,Queens NC,1474,15,0.857
+Michigan St,1277,3,Santa Clara,1365,10,0.668
+Michigan St,1277,3,Siena,1373,16,0.8477
+Michigan St,1277,3,SMU,1374,11,0.6415
+Michigan St,1277,3,South Florida,1378,11,0.75
+Michigan St,1277,3,St John's,1385,5,0.6139
+Michigan St,1277,3,St Louis,1387,9,0.7558
+Michigan St,1277,3,St Mary's CA,1388,7,0.7137
+Michigan St,1277,3,TCU,1395,9,0.7079
+Michigan St,1277,3,Tennessee,1397,6,0.635
+Michigan St,1277,3,Tennessee St,1398,15,0.7929
+Michigan St,1277,3,Texas,1400,11,0.7571
+Michigan St,1277,3,Texas A&M,1401,10,0.7537
+Michigan St,1277,3,Texas Tech,1403,5,0.7413
+Michigan St,1277,3,Troy,1407,13,0.898
+Michigan St,1277,3,UCF,1416,10,0.6496
+Michigan St,1277,3,UCLA,1417,7,0.6962
+Michigan St,1277,3,UMBC,1420,16,0.8466
+Michigan St,1277,3,Utah St,1429,9,0.7326
+Michigan St,1277,3,Vanderbilt,1435,5,0.5435
+Michigan St,1277,3,VCU,1433,11,0.6821
+Michigan St,1277,3,Villanova,1437,8,0.7683
+Michigan St,1277,3,Virginia,1438,3,0.5123
+Michigan St,1277,3,Wisconsin,1458,5,0.6835
+Michigan St,1277,3,Wright St,1460,14,0.8658
+Missouri,1281,10,N Dakota St,1295,14,0.7077
+Missouri,1281,10,NC State,1301,11,0.4615
+Nebraska,1304,4,Missouri,1281,10,0.7089
+North Carolina,1314,6,Missouri,1281,10,0.7114
+Missouri,1281,10,Northern Iowa,1320,12,0.4488
+Ohio St,1326,8,Missouri,1281,10,0.6588
+Missouri,1281,10,Penn,1335,14,0.6296
+Missouri,1281,10,Prairie View,1341,16,0.8607
+Purdue,1345,2,Missouri,1281,10,0.7879
+Missouri,1281,10,Queens NC,1474,15,0.7929
+Santa Clara,1365,10,Missouri,1281,10,0.7241
+Missouri,1281,10,Siena,1373,16,0.8512
+Missouri,1281,10,SMU,1374,11,0.4009
+Missouri,1281,10,South Florida,1378,11,0.5216
+St John's,1385,5,Missouri,1281,10,0.8026
+St Louis,1387,9,Missouri,1281,10,0.6382
+St Mary's CA,1388,7,Missouri,1281,10,0.6631
+TCU,1395,9,Missouri,1281,10,0.6077
+Tennessee,1397,6,Missouri,1281,10,0.7622
+Missouri,1281,10,Tennessee St,1398,15,0.6887
+Missouri,1281,10,Texas,1400,11,0.6827
+Missouri,1281,10,Texas A&M,1401,10,0.3978
+Texas Tech,1403,5,Missouri,1281,10,0.8071
+Missouri,1281,10,Troy,1407,13,0.6911
+UCF,1416,10,Missouri,1281,10,0.5586
+UCLA,1417,7,Missouri,1281,10,0.668
+Missouri,1281,10,UMBC,1420,16,0.7529
+Utah St,1429,9,Missouri,1281,10,0.6551
+Vanderbilt,1435,5,Missouri,1281,10,0.758
+Missouri,1281,10,VCU,1433,11,0.4525
+Villanova,1437,8,Missouri,1281,10,0.5889
+Virginia,1438,3,Missouri,1281,10,0.8885
+Wisconsin,1458,5,Missouri,1281,10,0.6916
+Missouri,1281,10,Wright St,1460,14,0.7996
+NC State,1301,11,N Dakota St,1295,14,0.8657
+Nebraska,1304,4,N Dakota St,1295,14,0.8819
+North Carolina,1314,6,N Dakota St,1295,14,0.7317
+Northern Iowa,1320,12,N Dakota St,1295,14,0.6389
+Ohio St,1326,8,N Dakota St,1295,14,0.7726
+N Dakota St,1295,14,Penn,1335,14,0.7002
+N Dakota St,1295,14,Prairie View,1341,16,0.8798
+Purdue,1345,2,N Dakota St,1295,14,0.8384
+N Dakota St,1295,14,Queens NC,1474,15,0.6158
+Santa Clara,1365,10,N Dakota St,1295,14,0.9223
+N Dakota St,1295,14,Siena,1373,16,0.5919
+SMU,1374,11,N Dakota St,1295,14,0.8643
+South Florida,1378,11,N Dakota St,1295,14,0.8091
+St John's,1385,5,N Dakota St,1295,14,0.922
+St Louis,1387,9,N Dakota St,1295,14,0.8331
+St Mary's CA,1388,7,N Dakota St,1295,14,0.8517
+TCU,1395,9,N Dakota St,1295,14,0.8339
+Tennessee,1397,6,N Dakota St,1295,14,0.8927
+N Dakota St,1295,14,Tennessee St,1398,15,0.585
+Texas,1400,11,N Dakota St,1295,14,0.8253
+Texas A&M,1401,10,N Dakota St,1295,14,0.8087
+Texas Tech,1403,5,N Dakota St,1295,14,0.8365
+Troy,1407,13,N Dakota St,1295,14,0.4515
+UCF,1416,10,N Dakota St,1295,14,0.7847
+UCLA,1417,7,N Dakota St,1295,14,0.8547
+N Dakota St,1295,14,UMBC,1420,16,0.7388
+Utah St,1429,9,N Dakota St,1295,14,0.8493
+Vanderbilt,1435,5,N Dakota St,1295,14,0.8843
+VCU,1433,11,N Dakota St,1295,14,0.8769
+Villanova,1437,8,N Dakota St,1295,14,0.7767
+Virginia,1438,3,N Dakota St,1295,14,0.9371
+Wisconsin,1458,5,N Dakota St,1295,14,0.8309
+N Dakota St,1295,14,Wright St,1460,14,0.6346
+Nebraska,1304,4,NC State,1301,11,0.4476
+North Carolina,1314,6,NC State,1301,11,0.4369
+NC State,1301,11,Northern Iowa,1320,12,0.6999
+Ohio St,1326,8,NC State,1301,11,0.4792
+NC State,1301,11,Penn,1335,14,0.8822
+NC State,1301,11,Prairie View,1341,16,0.8933
+Purdue,1345,2,NC State,1301,11,0.6783
+NC State,1301,11,Queens NC,1474,15,0.8827
+Santa Clara,1365,10,NC State,1301,11,0.7884
+NC State,1301,11,Siena,1373,16,0.8976
+NC State,1301,11,SMU,1374,11,0.4816
+NC State,1301,11,South Florida,1378,11,0.7522
+St John's,1385,5,NC State,1301,11,0.6722
+St Louis,1387,9,NC State,1301,11,0.5752
+St Mary's CA,1388,7,NC State,1301,11,0.6823
+TCU,1395,9,NC State,1301,11,0.6438
+Tennessee,1397,6,NC State,1301,11,0.6656
+NC State,1301,11,Tennessee St,1398,15,0.8771
+NC State,1301,11,Texas,1400,11,0.6702
+Texas A&M,1401,10,NC State,1301,11,0.4861
+Texas Tech,1403,5,NC State,1301,11,0.6886
+NC State,1301,11,Troy,1407,13,0.8774
+UCF,1416,10,NC State,1301,11,0.4689
+UCLA,1417,7,NC State,1301,11,0.6942
+NC State,1301,11,UMBC,1420,16,0.8835
+Utah St,1429,9,NC State,1301,11,0.7315
+Vanderbilt,1435,5,NC State,1301,11,0.7112
+NC State,1301,11,VCU,1433,11,0.6506
+Villanova,1437,8,NC State,1301,11,0.3816
+Virginia,1438,3,NC State,1301,11,0.8079
+Wisconsin,1458,5,NC State,1301,11,0.6581
+NC State,1301,11,Wright St,1460,14,0.8635
+Nebraska,1304,4,North Carolina,1314,6,0.6674
+Nebraska,1304,4,Northern Iowa,1320,12,0.8647
+Nebraska,1304,4,Ohio St,1326,8,0.5465
+Nebraska,1304,4,Penn,1335,14,0.9533
+Nebraska,1304,4,Prairie View,1341,16,0.8862
+Purdue,1345,2,Nebraska,1304,4,0.5665
+Nebraska,1304,4,Queens NC,1474,15,0.8631
+Nebraska,1304,4,Santa Clara,1365,10,0.5017
+Nebraska,1304,4,Siena,1373,16,0.9024
+Nebraska,1304,4,SMU,1374,11,0.6484
+Nebraska,1304,4,South Florida,1378,11,0.6917
+Nebraska,1304,4,St John's,1385,5,0.5081
+Nebraska,1304,4,St Louis,1387,9,0.8282
+Nebraska,1304,4,St Mary's CA,1388,7,0.6467
+Nebraska,1304,4,TCU,1395,9,0.6767
+Nebraska,1304,4,Tennessee,1397,6,0.5611
+Nebraska,1304,4,Tennessee St,1398,15,0.8294
+Nebraska,1304,4,Texas,1400,11,0.6145
+Nebraska,1304,4,Texas A&M,1401,10,0.8033
+Nebraska,1304,4,Texas Tech,1403,5,0.493
+Nebraska,1304,4,Troy,1407,13,0.9091
+Nebraska,1304,4,UCF,1416,10,0.6013
+Nebraska,1304,4,UCLA,1417,7,0.6008
+Nebraska,1304,4,UMBC,1420,16,0.8897
+Nebraska,1304,4,Utah St,1429,9,0.7062
+Nebraska,1304,4,Vanderbilt,1435,5,0.3979
+Nebraska,1304,4,VCU,1433,11,0.6709
+Nebraska,1304,4,Villanova,1437,8,0.7208
+Virginia,1438,3,Nebraska,1304,4,0.6332
+Nebraska,1304,4,Wisconsin,1458,5,0.4337
+Nebraska,1304,4,Wright St,1460,14,0.8193
+North Carolina,1314,6,Northern Iowa,1320,12,0.5259
+North Carolina,1314,6,Ohio St,1326,8,0.5075
+North Carolina,1314,6,Penn,1335,14,0.8655
+North Carolina,1314,6,Prairie View,1341,16,0.88
+Purdue,1345,2,North Carolina,1314,6,0.7296
+North Carolina,1314,6,Queens NC,1474,15,0.8142
+North Carolina,1314,6,Santa Clara,1365,10,0.5848
+North Carolina,1314,6,Siena,1373,16,0.8533
+North Carolina,1314,6,SMU,1374,11,0.4143
+North Carolina,1314,6,South Florida,1378,11,0.5871
+St John's,1385,5,North Carolina,1314,6,0.6577
+North Carolina,1314,6,St Louis,1387,9,0.4777
+North Carolina,1314,6,St Mary's CA,1388,7,0.3662
+North Carolina,1314,6,TCU,1395,9,0.4795
+Tennessee,1397,6,North Carolina,1314,6,0.6779
+North Carolina,1314,6,Tennessee St,1398,15,0.8124
+North Carolina,1314,6,Texas,1400,11,0.5589
+North Carolina,1314,6,Texas A&M,1401,10,0.6111
+Texas Tech,1403,5,North Carolina,1314,6,0.7187
+North Carolina,1314,6,Troy,1407,13,0.8532
+North Carolina,1314,6,UCF,1416,10,0.4269
+North Carolina,1314,6,UCLA,1417,7,0.4486
+North Carolina,1314,6,UMBC,1420,16,0.9015
+North Carolina,1314,6,Utah St,1429,9,0.4563
+Vanderbilt,1435,5,North Carolina,1314,6,0.6897
+North Carolina,1314,6,VCU,1433,11,0.5912
+North Carolina,1314,6,Villanova,1437,8,0.5463
+Virginia,1438,3,North Carolina,1314,6,0.817
+Wisconsin,1458,5,North Carolina,1314,6,0.7051
+North Carolina,1314,6,Wright St,1460,14,0.8421
+Ohio St,1326,8,Northern Iowa,1320,12,0.6431
+Northern Iowa,1320,12,Penn,1335,14,0.7369
+Northern Iowa,1320,12,Prairie View,1341,16,0.8162
+Purdue,1345,2,Northern Iowa,1320,12,0.7032
+Northern Iowa,1320,12,Queens NC,1474,15,0.6779
+Santa Clara,1365,10,Northern Iowa,1320,12,0.8147
+Northern Iowa,1320,12,Siena,1373,16,0.8392
+SMU,1374,11,Northern Iowa,1320,12,0.6567
+South Florida,1378,11,Northern Iowa,1320,12,0.4791
+St John's,1385,5,Northern Iowa,1320,12,0.7826
+St Louis,1387,9,Northern Iowa,1320,12,0.8419
+St Mary's CA,1388,7,Northern Iowa,1320,12,0.7003
+TCU,1395,9,Northern Iowa,1320,12,0.5658
+Tennessee,1397,6,Northern Iowa,1320,12,0.6404
+Northern Iowa,1320,12,Tennessee St,1398,15,0.7084
+Texas,1400,11,Northern Iowa,1320,12,0.6056
+Texas A&M,1401,10,Northern Iowa,1320,12,0.6562
+Texas Tech,1403,5,Northern Iowa,1320,12,0.78
+Northern Iowa,1320,12,Troy,1407,13,0.7467
+UCF,1416,10,Northern Iowa,1320,12,0.3627
+UCLA,1417,7,Northern Iowa,1320,12,0.6098
+Northern Iowa,1320,12,UMBC,1420,16,0.7929
+Utah St,1429,9,Northern Iowa,1320,12,0.743
+Vanderbilt,1435,5,Northern Iowa,1320,12,0.8434
+VCU,1433,11,Northern Iowa,1320,12,0.6628
+Villanova,1437,8,Northern Iowa,1320,12,0.5906
+Virginia,1438,3,Northern Iowa,1320,12,0.8527
+Wisconsin,1458,5,Northern Iowa,1320,12,0.5103
+Northern Iowa,1320,12,Wright St,1460,14,0.5514
+Ohio St,1326,8,Penn,1335,14,0.8416
+Ohio St,1326,8,Prairie View,1341,16,0.8304
+Purdue,1345,2,Ohio St,1326,8,0.7263
+Ohio St,1326,8,Queens NC,1474,15,0.802
+Ohio St,1326,8,Santa Clara,1365,10,0.4391
+Ohio St,1326,8,Siena,1373,16,0.8401
+Ohio St,1326,8,SMU,1374,11,0.4401
+Ohio St,1326,8,South Florida,1378,11,0.7036
+St John's,1385,5,Ohio St,1326,8,0.6147
+Ohio St,1326,8,St Louis,1387,9,0.584
+St Mary's CA,1388,7,Ohio St,1326,8,0.6232
+Ohio St,1326,8,TCU,1395,9,0.6536
+Tennessee,1397,6,Ohio St,1326,8,0.6861
+Ohio St,1326,8,Tennessee St,1398,15,0.7243
+Ohio St,1326,8,Texas,1400,11,0.6712
+Ohio St,1326,8,Texas A&M,1401,10,0.5662
+Texas Tech,1403,5,Ohio St,1326,8,0.661
+Ohio St,1326,8,Troy,1407,13,0.795
+Ohio St,1326,8,UCF,1416,10,0.4781
+UCLA,1417,7,Ohio St,1326,8,0.7295
+Ohio St,1326,8,UMBC,1420,16,0.8883
+Ohio St,1326,8,Utah St,1429,9,0.6607
+Vanderbilt,1435,5,Ohio St,1326,8,0.6778
+Ohio St,1326,8,VCU,1433,11,0.6736
+Villanova,1437,8,Ohio St,1326,8,0.6159
+Virginia,1438,3,Ohio St,1326,8,0.8027
+Wisconsin,1458,5,Ohio St,1326,8,0.4713
+Ohio St,1326,8,Wright St,1460,14,0.782
+Penn,1335,14,Prairie View,1341,16,0.7638
+Purdue,1345,2,Penn,1335,14,0.8947
+Penn,1335,14,Queens NC,1474,15,0.5292
+Santa Clara,1365,10,Penn,1335,14,0.905
+Penn,1335,14,Siena,1373,16,0.5151
+SMU,1374,11,Penn,1335,14,0.8832
+South Florida,1378,11,Penn,1335,14,0.8174
+St John's,1385,5,Penn,1335,14,0.9353
+St Louis,1387,9,Penn,1335,14,0.9026
+St Mary's CA,1388,7,Penn,1335,14,0.9028
+TCU,1395,9,Penn,1335,14,0.8126
+Tennessee,1397,6,Penn,1335,14,0.8847
+Penn,1335,14,Tennessee St,1398,15,0.496
+Texas,1400,11,Penn,1335,14,0.7882
+Texas A&M,1401,10,Penn,1335,14,0.6146
+Texas Tech,1403,5,Penn,1335,14,0.8826
+Troy,1407,13,Penn,1335,14,0.5732
+UCF,1416,10,Penn,1335,14,0.7814
+UCLA,1417,7,Penn,1335,14,0.8697
+Penn,1335,14,UMBC,1420,16,0.5903
+Utah St,1429,9,Penn,1335,14,0.9114
+Vanderbilt,1435,5,Penn,1335,14,0.9283
+VCU,1433,11,Penn,1335,14,0.9244
+Villanova,1437,8,Penn,1335,14,0.8935
+Virginia,1438,3,Penn,1335,14,0.9754
+Wisconsin,1458,5,Penn,1335,14,0.858
+Penn,1335,14,Wright St,1460,14,0.3846
+Purdue,1345,2,Prairie View,1341,16,0.8073
+Queens NC,1474,15,Prairie View,1341,16,0.6844
+Santa Clara,1365,10,Prairie View,1341,16,0.9011
+Siena,1373,16,Prairie View,1341,16,0.8075
+SMU,1374,11,Prairie View,1341,16,0.88
+South Florida,1378,11,Prairie View,1341,16,0.9357
+St John's,1385,5,Prairie View,1341,16,0.964
+St Louis,1387,9,Prairie View,1341,16,0.9031
+St Mary's CA,1388,7,Prairie View,1341,16,0.8965
+TCU,1395,9,Prairie View,1341,16,0.8866
+Tennessee,1397,6,Prairie View,1341,16,0.8921
+Tennessee St,1398,15,Prairie View,1341,16,0.8512
+Texas,1400,11,Prairie View,1341,16,0.8241
+Texas A&M,1401,10,Prairie View,1341,16,0.8441
+Texas Tech,1403,5,Prairie View,1341,16,0.8968
+Troy,1407,13,Prairie View,1341,16,0.8231
+UCF,1416,10,Prairie View,1341,16,0.7877
+UCLA,1417,7,Prairie View,1341,16,0.8755
+UMBC,1420,16,Prairie View,1341,16,0.7134
+Utah St,1429,9,Prairie View,1341,16,0.8901
+Vanderbilt,1435,5,Prairie View,1341,16,0.9424
+VCU,1433,11,Prairie View,1341,16,0.9566
+Villanova,1437,8,Prairie View,1341,16,0.8528
+Virginia,1438,3,Prairie View,1341,16,0.9654
+Wisconsin,1458,5,Prairie View,1341,16,0.8337
+Wright St,1460,14,Prairie View,1341,16,0.882
+Purdue,1345,2,Queens NC,1474,15,0.9494
+Purdue,1345,2,Santa Clara,1365,10,0.5635
+Purdue,1345,2,Siena,1373,16,0.9165
+Purdue,1345,2,SMU,1374,11,0.7485
+Purdue,1345,2,South Florida,1378,11,0.7313
+Purdue,1345,2,St John's,1385,5,0.6215
+Purdue,1345,2,St Louis,1387,9,0.7929
+Purdue,1345,2,St Mary's CA,1388,7,0.6969
+Purdue,1345,2,TCU,1395,9,0.6674
+Purdue,1345,2,Tennessee,1397,6,0.672
+Purdue,1345,2,Tennessee St,1398,15,0.8093
+Purdue,1345,2,Texas,1400,11,0.7515
+Purdue,1345,2,Texas A&M,1401,10,0.8357
+Purdue,1345,2,Texas Tech,1403,5,0.4648
+Purdue,1345,2,Troy,1407,13,0.9235
+Purdue,1345,2,UCF,1416,10,0.8687
+Purdue,1345,2,UCLA,1417,7,0.6495
+Purdue,1345,2,UMBC,1420,16,0.8658
+Purdue,1345,2,Utah St,1429,9,0.761
+Purdue,1345,2,Vanderbilt,1435,5,0.5331
+Purdue,1345,2,VCU,1433,11,0.5062
+Purdue,1345,2,Villanova,1437,8,0.679
+Purdue,1345,2,Virginia,1438,3,0.4976
+Purdue,1345,2,Wisconsin,1458,5,0.7088
+Purdue,1345,2,Wright St,1460,14,0.844
+Santa Clara,1365,10,Queens NC,1474,15,0.9297
+Queens NC,1474,15,Siena,1373,16,0.3305
+SMU,1374,11,Queens NC,1474,15,0.9053
+South Florida,1378,11,Queens NC,1474,15,0.8653
+St John's,1385,5,Queens NC,1474,15,0.9175
+St Louis,1387,9,Queens NC,1474,15,0.8935
+St Mary's CA,1388,7,Queens NC,1474,15,0.8594
+TCU,1395,9,Queens NC,1474,15,0.8276
+Tennessee,1397,6,Queens NC,1474,15,0.891
+Tennessee St,1398,15,Queens NC,1474,15,0.6287
+Texas,1400,11,Queens NC,1474,15,0.8142
+Texas A&M,1401,10,Queens NC,1474,15,0.8606
+Texas Tech,1403,5,Queens NC,1474,15,0.8954
+Troy,1407,13,Queens NC,1474,15,0.6359
+UCF,1416,10,Queens NC,1474,15,0.8683
+UCLA,1417,7,Queens NC,1474,15,0.8734
+Queens NC,1474,15,UMBC,1420,16,0.5177
+Utah St,1429,9,Queens NC,1474,15,0.9027
+Vanderbilt,1435,5,Queens NC,1474,15,0.9487
+VCU,1433,11,Queens NC,1474,15,0.8888
+Villanova,1437,8,Queens NC,1474,15,0.8428
+Virginia,1438,3,Queens NC,1474,15,0.9369
+Wisconsin,1458,5,Queens NC,1474,15,0.9125
+Wright St,1460,14,Queens NC,1474,15,0.4668
+Santa Clara,1365,10,Siena,1373,16,0.8878
+Santa Clara,1365,10,SMU,1374,11,0.7567
+Santa Clara,1365,10,South Florida,1378,11,0.7759
+St John's,1385,5,Santa Clara,1365,10,0.5054
+St Louis,1387,9,Santa Clara,1365,10,0.519
+St Mary's CA,1388,7,Santa Clara,1365,10,0.639
+TCU,1395,9,Santa Clara,1365,10,0.5249
+Tennessee,1397,6,Santa Clara,1365,10,0.6992
+Santa Clara,1365,10,Tennessee St,1398,15,0.8896
+Santa Clara,1365,10,Texas,1400,11,0.5916
+Santa Clara,1365,10,Texas A&M,1401,10,0.7961
+Texas Tech,1403,5,Santa Clara,1365,10,0.4972
+Santa Clara,1365,10,Troy,1407,13,0.9238
+Santa Clara,1365,10,UCF,1416,10,0.7572
+UCLA,1417,7,Santa Clara,1365,10,0.3826
+Santa Clara,1365,10,UMBC,1420,16,0.8469
+Utah St,1429,9,Santa Clara,1365,10,0.493
+Vanderbilt,1435,5,Santa Clara,1365,10,0.6099
+Santa Clara,1365,10,VCU,1433,11,0.7118
+Villanova,1437,8,Santa Clara,1365,10,0.295
+Virginia,1438,3,Santa Clara,1365,10,0.8048
+Wisconsin,1458,5,Santa Clara,1365,10,0.5169
+Santa Clara,1365,10,Wright St,1460,14,0.8977
+SMU,1374,11,Siena,1373,16,0.8853
+South Florida,1378,11,Siena,1373,16,0.856
+St John's,1385,5,Siena,1373,16,0.921
+St Louis,1387,9,Siena,1373,16,0.9272
+St Mary's CA,1388,7,Siena,1373,16,0.9067
+TCU,1395,9,Siena,1373,16,0.8648
+Tennessee,1397,6,Siena,1373,16,0.8976
+Tennessee St,1398,15,Siena,1373,16,0.5419
+Texas,1400,11,Siena,1373,16,0.8259
+Texas A&M,1401,10,Siena,1373,16,0.8318
+Texas Tech,1403,5,Siena,1373,16,0.8929
+Troy,1407,13,Siena,1373,16,0.5968
+UCF,1416,10,Siena,1373,16,0.8641
+UCLA,1417,7,Siena,1373,16,0.8847
+Siena,1373,16,UMBC,1420,16,0.7353
+Utah St,1429,9,Siena,1373,16,0.9123
+Vanderbilt,1435,5,Siena,1373,16,0.9312
+VCU,1433,11,Siena,1373,16,0.8827
+Villanova,1437,8,Siena,1373,16,0.8968
+Virginia,1438,3,Siena,1373,16,0.9622
+Wisconsin,1458,5,Siena,1373,16,0.8988
+Wright St,1460,14,Siena,1373,16,0.5277
+SMU,1374,11,South Florida,1378,11,0.7392
+St John's,1385,5,SMU,1374,11,0.6837
+St Louis,1387,9,SMU,1374,11,0.4526
+St Mary's CA,1388,7,SMU,1374,11,0.6918
+TCU,1395,9,SMU,1374,11,0.5561
+Tennessee,1397,6,SMU,1374,11,0.7217
+SMU,1374,11,Tennessee St,1398,15,0.7952
+Texas,1400,11,SMU,1374,11,0.4912
+Texas A&M,1401,10,SMU,1374,11,0.3635
+Texas Tech,1403,5,SMU,1374,11,0.5448
+SMU,1374,11,Troy,1407,13,0.8993
+UCF,1416,10,SMU,1374,11,0.385
+UCLA,1417,7,SMU,1374,11,0.5334
+SMU,1374,11,UMBC,1420,16,0.8549
+Utah St,1429,9,SMU,1374,11,0.4456
+Vanderbilt,1435,5,SMU,1374,11,0.5548
+SMU,1374,11,VCU,1433,11,0.6855
+Villanova,1437,8,SMU,1374,11,0.3697
+Virginia,1438,3,SMU,1374,11,0.8162
+Wisconsin,1458,5,SMU,1374,11,0.4872
+SMU,1374,11,Wright St,1460,14,0.8668
+St John's,1385,5,South Florida,1378,11,0.837
+St Louis,1387,9,South Florida,1378,11,0.6186
+St Mary's CA,1388,7,South Florida,1378,11,0.749
+TCU,1395,9,South Florida,1378,11,0.5505
+Tennessee,1397,6,South Florida,1378,11,0.8151
+South Florida,1378,11,Tennessee St,1398,15,0.7994
+Texas,1400,11,South Florida,1378,11,0.5198
+Texas A&M,1401,10,South Florida,1378,11,0.7472
+Texas Tech,1403,5,South Florida,1378,11,0.8003
+South Florida,1378,11,Troy,1407,13,0.8914
+UCF,1416,10,South Florida,1378,11,0.6219
+UCLA,1417,7,South Florida,1378,11,0.7138
+South Florida,1378,11,UMBC,1420,16,0.7869
+Utah St,1429,9,South Florida,1378,11,0.6165
+Vanderbilt,1435,5,South Florida,1378,11,0.8556
+VCU,1433,11,South Florida,1378,11,0.6692
+Villanova,1437,8,South Florida,1378,11,0.6355
+Virginia,1438,3,South Florida,1378,11,0.823
+Wisconsin,1458,5,South Florida,1378,11,0.7853
+South Florida,1378,11,Wright St,1460,14,0.876
+St John's,1385,5,St Louis,1387,9,0.7436
+St John's,1385,5,St Mary's CA,1388,7,0.5078
+St John's,1385,5,TCU,1395,9,0.7494
+St John's,1385,5,Tennessee,1397,6,0.6327
+St John's,1385,5,Tennessee St,1398,15,0.9114
+St John's,1385,5,Texas,1400,11,0.6114
+St John's,1385,5,Texas A&M,1401,10,0.7089
+St John's,1385,5,Texas Tech,1403,5,0.5043
+St John's,1385,5,Troy,1407,13,0.9387
+St John's,1385,5,UCF,1416,10,0.7806
+St John's,1385,5,UCLA,1417,7,0.5342
+St John's,1385,5,UMBC,1420,16,0.8292
+St John's,1385,5,Utah St,1429,9,0.4947
+Vanderbilt,1435,5,St John's,1385,5,0.7587
+St John's,1385,5,VCU,1433,11,0.7981
+St John's,1385,5,Villanova,1437,8,0.7431
+Virginia,1438,3,St John's,1385,5,0.7376
+St John's,1385,5,Wisconsin,1458,5,0.4595
+St John's,1385,5,Wright St,1460,14,0.9305
+St Mary's CA,1388,7,St Louis,1387,9,0.7354
+TCU,1395,9,St Louis,1387,9,0.4934
+Tennessee,1397,6,St Louis,1387,9,0.6588
+St Louis,1387,9,Tennessee St,1398,15,0.7876
+St Louis,1387,9,Texas,1400,11,0.5168
+St Louis,1387,9,Texas A&M,1401,10,0.5707
+Texas Tech,1403,5,St Louis,1387,9,0.7121
+St Louis,1387,9,Troy,1407,13,0.8746
+St Louis,1387,9,UCF,1416,10,0.6413
+UCLA,1417,7,St Louis,1387,9,0.5977
+St Louis,1387,9,UMBC,1420,16,0.8679
+Utah St,1429,9,St Louis,1387,9,0.5378
+Vanderbilt,1435,5,St Louis,1387,9,0.7688
+St Louis,1387,9,VCU,1433,11,0.542
+Villanova,1437,8,St Louis,1387,9,0.4005
+Virginia,1438,3,St Louis,1387,9,0.7762
+Wisconsin,1458,5,St Louis,1387,9,0.5544
+St Louis,1387,9,Wright St,1460,14,0.8247
+St Mary's CA,1388,7,TCU,1395,9,0.683
+Tennessee,1397,6,St Mary's CA,1388,7,0.5413
+St Mary's CA,1388,7,Tennessee St,1398,15,0.8858
+St Mary's CA,1388,7,Texas,1400,11,0.6597
+St Mary's CA,1388,7,Texas A&M,1401,10,0.6892
+Texas Tech,1403,5,St Mary's CA,1388,7,0.583
+St Mary's CA,1388,7,Troy,1407,13,0.873
+St Mary's CA,1388,7,UCF,1416,10,0.6824
+St Mary's CA,1388,7,UCLA,1417,7,0.6751
+St Mary's CA,1388,7,UMBC,1420,16,0.917
+St Mary's CA,1388,7,Utah St,1429,9,0.6521
+Vanderbilt,1435,5,St Mary's CA,1388,7,0.5296
+St Mary's CA,1388,7,VCU,1433,11,0.7386
+St Mary's CA,1388,7,Villanova,1437,8,0.6124
+Virginia,1438,3,St Mary's CA,1388,7,0.7478
+Wisconsin,1458,5,St Mary's CA,1388,7,0.4595
+St Mary's CA,1388,7,Wright St,1460,14,0.8527
+Tennessee,1397,6,TCU,1395,9,0.6844
+TCU,1395,9,Tennessee St,1398,15,0.695
+TCU,1395,9,Texas,1400,11,0.4858
+TCU,1395,9,Texas A&M,1401,10,0.529
+Texas Tech,1403,5,TCU,1395,9,0.6848
+TCU,1395,9,Troy,1407,13,0.8413
+TCU,1395,9,UCF,1416,10,0.6762
+UCLA,1417,7,TCU,1395,9,0.6811
+TCU,1395,9,UMBC,1420,16,0.8386
+Utah St,1429,9,TCU,1395,9,0.4808
+Vanderbilt,1435,5,TCU,1395,9,0.7514
+TCU,1395,9,VCU,1433,11,0.5162
+Villanova,1437,8,TCU,1395,9,0.555
+Virginia,1438,3,TCU,1395,9,0.7336
+Wisconsin,1458,5,TCU,1395,9,0.6507
+TCU,1395,9,Wright St,1460,14,0.8177
+Tennessee,1397,6,Tennessee St,1398,15,0.8007
+Tennessee,1397,6,Texas,1400,11,0.7105
+Tennessee,1397,6,Texas A&M,1401,10,0.7271
+Texas Tech,1403,5,Tennessee,1397,6,0.6572
+Tennessee,1397,6,Troy,1407,13,0.9164
+Tennessee,1397,6,UCF,1416,10,0.7045
+Tennessee,1397,6,UCLA,1417,7,0.5567
+Tennessee,1397,6,UMBC,1420,16,0.8005
+Tennessee,1397,6,Utah St,1429,9,0.7439
+Vanderbilt,1435,5,Tennessee,1397,6,0.6132
+Tennessee,1397,6,VCU,1433,11,0.7601
+Tennessee,1397,6,Villanova,1437,8,0.7005
+Virginia,1438,3,Tennessee,1397,6,0.6567
+Wisconsin,1458,5,Tennessee,1397,6,0.6822
+Tennessee,1397,6,Wright St,1460,14,0.9124
+Texas,1400,11,Tennessee St,1398,15,0.7215
+Texas A&M,1401,10,Tennessee St,1398,15,0.7098
+Texas Tech,1403,5,Tennessee St,1398,15,0.8212
+Troy,1407,13,Tennessee St,1398,15,0.6113
+UCF,1416,10,Tennessee St,1398,15,0.8059
+UCLA,1417,7,Tennessee St,1398,15,0.7906
+Tennessee St,1398,15,UMBC,1420,16,0.5687
+Utah St,1429,9,Tennessee St,1398,15,0.7652
+Vanderbilt,1435,5,Tennessee St,1398,15,0.9036
+VCU,1433,11,Tennessee St,1398,15,0.8468
+Villanova,1437,8,Tennessee St,1398,15,0.747
+Virginia,1438,3,Tennessee St,1398,15,0.9155
+Wisconsin,1458,5,Tennessee St,1398,15,0.8215
+Wright St,1460,14,Tennessee St,1398,15,0.4142
+Texas A&M,1401,10,Texas,1400,11,0.5067
+Texas Tech,1403,5,Texas,1400,11,0.7579
+Texas,1400,11,Troy,1407,13,0.7227
+UCF,1416,10,Texas,1400,11,0.5885
+UCLA,1417,7,Texas,1400,11,0.6048
+Texas,1400,11,UMBC,1420,16,0.8163
+Utah St,1429,9,Texas,1400,11,0.6146
+Vanderbilt,1435,5,Texas,1400,11,0.6377
+Texas,1400,11,VCU,1433,11,0.4121
+Villanova,1437,8,Texas,1400,11,0.4546
+Virginia,1438,3,Texas,1400,11,0.7719
+Wisconsin,1458,5,Texas,1400,11,0.6919
+Texas,1400,11,Wright St,1460,14,0.7572
+Texas Tech,1403,5,Texas A&M,1401,10,0.6965
+Texas A&M,1401,10,Troy,1407,13,0.8779
+UCF,1416,10,Texas A&M,1401,10,0.6126
+UCLA,1417,7,Texas A&M,1401,10,0.6228
+Texas A&M,1401,10,UMBC,1420,16,0.8241
+Utah St,1429,9,Texas A&M,1401,10,0.6561
+Vanderbilt,1435,5,Texas A&M,1401,10,0.7182
+Texas A&M,1401,10,VCU,1433,11,0.4139
+Villanova,1437,8,Texas A&M,1401,10,0.5092
+Virginia,1438,3,Texas A&M,1401,10,0.7991
+Wisconsin,1458,5,Texas A&M,1401,10,0.6692
+Texas A&M,1401,10,Wright St,1460,14,0.8157
+Texas Tech,1403,5,Troy,1407,13,0.8568
+Texas Tech,1403,5,UCF,1416,10,0.6184
+Texas Tech,1403,5,UCLA,1417,7,0.4363
+Texas Tech,1403,5,UMBC,1420,16,0.8933
+Texas Tech,1403,5,Utah St,1429,9,0.7639
+Vanderbilt,1435,5,Texas Tech,1403,5,0.6445
+Texas Tech,1403,5,VCU,1433,11,0.6171
+Texas Tech,1403,5,Villanova,1437,8,0.6085
+Virginia,1438,3,Texas Tech,1403,5,0.7467
+Texas Tech,1403,5,Wisconsin,1458,5,0.6177
+Texas Tech,1403,5,Wright St,1460,14,0.9042
+UCF,1416,10,Troy,1407,13,0.8498
+UCLA,1417,7,Troy,1407,13,0.8499
+Troy,1407,13,UMBC,1420,16,0.6552
+Utah St,1429,9,Troy,1407,13,0.926
+Vanderbilt,1435,5,Troy,1407,13,0.9449
+VCU,1433,11,Troy,1407,13,0.9232
+Villanova,1437,8,Troy,1407,13,0.8504
+Virginia,1438,3,Troy,1407,13,0.9562
+Wisconsin,1458,5,Troy,1407,13,0.8711
+Troy,1407,13,Wright St,1460,14,0.573
+UCLA,1417,7,UCF,1416,10,0.6367
+UCF,1416,10,UMBC,1420,16,0.8567
+Utah St,1429,9,UCF,1416,10,0.5929
+Vanderbilt,1435,5,UCF,1416,10,0.7493
+UCF,1416,10,VCU,1433,11,0.4366
+Villanova,1437,8,UCF,1416,10,0.5243
+Virginia,1438,3,UCF,1416,10,0.8445
+Wisconsin,1458,5,UCF,1416,10,0.6324
+UCF,1416,10,Wright St,1460,14,0.7967
+UCLA,1417,7,UMBC,1420,16,0.8216
+UCLA,1417,7,Utah St,1429,9,0.6252
+Vanderbilt,1435,5,UCLA,1417,7,0.4422
+UCLA,1417,7,VCU,1433,11,0.6367
+UCLA,1417,7,Villanova,1437,8,0.7214
+Virginia,1438,3,UCLA,1417,7,0.7286
+Wisconsin,1458,5,UCLA,1417,7,0.3964
+UCLA,1417,7,Wright St,1460,14,0.8232
+Utah St,1429,9,UMBC,1420,16,0.8199
+Vanderbilt,1435,5,UMBC,1420,16,0.89
+VCU,1433,11,UMBC,1420,16,0.8851
+Villanova,1437,8,UMBC,1420,16,0.8855
+Virginia,1438,3,UMBC,1420,16,0.9045
+Wisconsin,1458,5,UMBC,1420,16,0.8906
+Wright St,1460,14,UMBC,1420,16,0.5621
+Vanderbilt,1435,5,Utah St,1429,9,0.6072
+Utah St,1429,9,VCU,1433,11,0.4414
+Villanova,1437,8,Utah St,1429,9,0.4315
+Virginia,1438,3,Utah St,1429,9,0.792
+Wisconsin,1458,5,Utah St,1429,9,0.6291
+Utah St,1429,9,Wright St,1460,14,0.8767
+Vanderbilt,1435,5,VCU,1433,11,0.7491
+Vanderbilt,1435,5,Villanova,1437,8,0.4899
+Virginia,1438,3,Vanderbilt,1435,5,0.6811
+Vanderbilt,1435,5,Wisconsin,1458,5,0.5932
+Vanderbilt,1435,5,Wright St,1460,14,0.9411
+Villanova,1437,8,VCU,1433,11,0.3946
+Virginia,1438,3,VCU,1433,11,0.8483
+Wisconsin,1458,5,VCU,1433,11,0.6191
+VCU,1433,11,Wright St,1460,14,0.9262
+Virginia,1438,3,Villanova,1437,8,0.7762
+Wisconsin,1458,5,Villanova,1437,8,0.5371
+Villanova,1437,8,Wright St,1460,14,0.7584
+Virginia,1438,3,Wisconsin,1458,5,0.6708
+Virginia,1438,3,Wright St,1460,14,0.9445
+Wisconsin,1458,5,Wright St,1460,14,0.8115
